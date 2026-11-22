@@ -129,9 +129,7 @@ export default function AboutEnglishPage() {
           , under the{" "}
           <Link href="/en/open-source/">7News Attribution License 1.0</Link>.
           You may modify and redeploy the site, provided you keep visible
-          attribution to 7News and this repository. Editorial crawl tooling,
-          internal pipelines, and unpublished material are not part of the public
-          repo.
+          attribution to 7News and this repository.
         </p>
 
         <h2>Subscribe & corrections</h2>

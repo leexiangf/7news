@@ -6,7 +6,7 @@ Bilingual (zh / en) AI news site for engineers and product leads.
 - **Stack:** Next.js App Router · TypeScript · Tailwind · Markdown · static export
 - **License:** [7News Attribution License 1.0](./LICENSE) — keep visible credit to 7News and this repo
 
-This repository is the **reader-facing site template** (pages, components, published posts). Hosting config, collectors, and editorial tooling are not included.
+This repository is the **reader-facing site template** (pages, components, published posts).
 
 ## Develop
 

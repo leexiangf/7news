@@ -34,11 +34,6 @@ export default function OpenSourceEnglishPage() {
           </a>
           . You may fork, modify, and redeploy it as your own site.
         </p>
-        <p>
-          The public scope is limited to code and published content needed to
-          rebuild the reader-facing site. Collectors, editorial pipelines,
-          internal config, and unpublished material are not in the repository.
-        </p>
 
         <h2>7News Attribution License 1.0</h2>
         <p>

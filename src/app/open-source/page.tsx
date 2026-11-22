@@ -31,9 +31,6 @@ export default function OpenSourcePage() {
           </a>
           。你可以 fork、修改并部署成自己的站点。
         </p>
-        <p>
-          公开范围限于可重建本站页面的代码与已发布内容；采集器、编辑链路、内部配置与未发布材料不在仓库内。
-        </p>
 
         <h2>7News Attribution License 1.0</h2>
         <p>

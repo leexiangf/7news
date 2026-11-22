@@ -104,7 +104,6 @@ export default function AboutPage() {
           公开，采用{" "}
           <Link href="/open-source/">7News Attribution License 1.0</Link>
           。你可以修改源码并部署成自己的站点，但需要保留指向 7News 与本仓库的可见署名。
-          编辑采集链路、内部工具与未发布内容不在公开仓库范围内。
         </p>
 
         <h2>订阅与更正</h2>
