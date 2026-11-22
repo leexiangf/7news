@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>7News · Models</title>
+  <link>https://7news.aiaaii.com/feed-llm-en.xml</link>
+  <description>Models channel: original summaries from official sources</description>
+  <language>en</language>
+  <lastBuildDate>Fri, 20 Nov 2026 00:00:00 GMT</lastBuildDate>
+  <atom:link href="https://7news.aiaaii.com/feed-llm-en.xml" rel="self" type="application/rss+xml"/>
+    <item>
+    <title>SenseTime at APEC Leaders’ Week: diplomacy and city venues show AI apps</title>
+    <link>https://7news.aiaaii.com/en/release/sensetime-apec-2026/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/sensetime-apec-2026/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>During Shenzhen’s 33rd APEC Economic Leaders’ Informal Meeting week, SenseTime showcased SenseRobot, Raccoon Work, Seko video agent, and a quadruped—event demos, not a model release.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>ByteDance Seed STEM: retrosynthesis challenge opens</title>
+    <link>https://7news.aiaaii.com/en/release/seed-stem-challenge/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/seed-stem-challenge/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Seed STEM molecular retrosynthesis challenge: 10 real problems on Volcano Engine; first prize ¥50k; mainland China only; register by 4 Dec; CRO wet-lab validation.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Anthropic closes IPO; ANT opens on Nasdaq</title>
+    <link>https://7news.aiaaii.com/en/release/anthropic-ipo-close/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/anthropic-ipo-close/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Anthropic closes its IPO with the greenshoe fully exercised; Class A at $83, ~1.127B shares, ~$91.6B to the company; concurrent Class N private placement ~$26B; combined gross ~$119.5B.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>OpenAI Business and Enterprise pricing page snapshot</title>
+    <link>https://7news.aiaaii.com/en/pricing/openai-api-pricing-snapshot/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/pricing/openai-api-pricing-snapshot/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>OpenAI Business / Enterprise pricing navigation: Standard-seat workspace features, API credits, and custom Enterprise—model seat fees separately from API usage; verify live page prices.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>DeepSeek API: deepseek-flash naming and peak/off-peak pricing</title>
+    <link>https://7news.aiaaii.com/en/pricing/deepseek-pricing-snapshot/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/pricing/deepseek-pricing-snapshot/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Call deepseek-flash (V4.1-Flash-1017); legacy names still accepted but billed at Flash rates; off-peak is half of peak; Flash cache-miss input ~$0.3/MTok at peak.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Anthropic Claude plans: Free, Pro, Max, and Ultra</title>
+    <link>https://7news.aiaaii.com/en/pricing/anthropic-pricing-snapshot/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/pricing/anthropic-pricing-snapshot/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Individual Claude plans: Free; Pro ~$17/mo annual ($20 monthly); Max $100; Ultra $200. Max/Ultra include $100/$200 monthly API credits—keep chat plans separate from API platform rates.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>LlamaIndex ParseBench-2: a severity-aware document parsing benchmark</title>
+    <link>https://7news.aiaaii.com/en/eval/llamaindex-parsebench-2/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/eval/llamaindex-parsebench-2/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>ParseBench-2 calibrates deterministic metrics to 330+ severity-labeled error types; corpus ~2.1k→4.3k; six dimensions including forms; LlamaParse Agentic Plus ~89.8 overall (vendor board).</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Kimi WorldVQA: 3,500 questions on whether MLLMs recognize the entity</title>
+    <link>https://7news.aiaaii.com/en/eval/kimi-worldvqa/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/eval/kimi-worldvqa/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>WorldVQA: ~3,500 image-QA pairs across 9 categories with head/tail splits; measures MLLM factual correctness; frontier models often under 50% on the tail; reports ECE/Slope calibration.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Liquid AI d1.2 / d1.2-ultra land on Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/en/release/vercel-liquid-d1-2/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/vercel-liquid-d1-2/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel: Liquid AI d1.2 / d1.2-ultra decision models on AI Gateway; Boolean / Choice / Score / Box; audio and image inputs; model IDs liquid/d1.2(-ultra).</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>GPT-Live 1.1 full-duplex speech lands on Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/en/release/vercel-gpt-live-1-1/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/vercel-gpt-live-1-1/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel: openai/gpt-live-1.1 via AI Gateway; full-duplex and interruptible; stronger transcription and cross-language timbre; same Live endpoint—usually just swap the model ID.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Google Dialogues: Walter Isaacson on curiosity and creativity in the AI era</title>
+    <link>https://7news.aiaaii.com/en/release/google-dialogues-walter-isaacson/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/google-dialogues-walter-isaacson/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A Dialogues podcast episode: Kent Walker with Walter Isaacson on collaboration behind historical breakthroughs and why judgment matters when information is always in your pocket—opinion talk, not a product launch.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Google Gemini 4 Neon lands on Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/en/release/vercel-gemini-4-neon/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/vercel-gemini-4-neon/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: google/gemini-4-neon for coding and agents—multimodal, 1M context, tools, Search/Maps grounding, reasoning low–xhigh.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>SenseTime 9M 2026 update: revenue +30.4%, generative AI accelerates</title>
+    <link>https://7news.aiaaii.com/en/release/sensetime-q3-2026-update/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/sensetime-q3-2026-update/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>SenseTime’s nine-month update through 30 Sep 2026 reports revenue up 30.4% to RMB 3.79B and gross margin at 43.4%, plus SenseNova and token/agent commercialization notes (EN+CN posts merged).</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>OpenAI’s Performance Factory: Codex agents from alert to baseline check</title>
+    <link>https://7news.aiaaii.com/en/release/openai-performance-factory/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/openai-performance-factory/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>OpenAI describes Performance Factory—configurable workflows where cloud Codex agents investigate performance alerts, propose fixes for human review, then verify recovery against baseline after deploy.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>OpenAI partners with Groupe Figaro to surface Le Figaro in ChatGPT</title>
+    <link>https://7news.aiaaii.com/en/release/openai-figaro-partnership/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/openai-figaro-partnership/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>OpenAI: strategic deal with Groupe Figaro so Le Figaro and sister titles are discoverable in ChatGPT via summaries and excerpts with links back; editorial independence retained; ChatGPT Enterprise planned internally.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>OpenAI details chip-design gains with models, AMD, and Synopsys</title>
+    <link>https://7news.aiaaii.com/en/release/openai-chip-design/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/openai-chip-design/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>OpenAI: Jalapeño vector/matrix standard-cell area ~−13%/−10%; up to ~14% PPA on AMD flagship GPU IP vs strong baselines; GPT-6.2 Astra leads RISC-V evals; GPT-Synopsys for EDA tools in progress.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Gemini 4 Neon: frontier capability tuned for high-frequency workflows</title>
+    <link>https://7news.aiaaii.com/en/release/gemini-4-neon/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/gemini-4-neon/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Google DeepMind launched Gemini 4 Neon on 18 Nov 2026—a 1M-context model priced below Carbon’s lane for complex coding, analysis, and enterprise delivery, with rollout across AI Studio, business, and Pro/Ultra surfaces.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Anthropic prices its IPO at $83 a share; ticker ANT expected on Nasdaq</title>
+    <link>https://7news.aiaaii.com/en/release/anthropic-ipo-pricing/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/anthropic-ipo-pricing/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>On 18 Nov 2026 Anthropic priced its Class A IPO at $83.00 per share for about 980 million shares, with trading expected to begin the next day on Nasdaq under ANT.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>SenseNova U1 Pro: Design Arena China #1, global #6 on image boards</title>
+    <link>https://7news.aiaaii.com/en/eval/sensenova-u1-pro-design-arena/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/eval/sensenova-u1-pro-design-arena/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>SenseTime says SenseNova U1 Pro tops Design Arena’s China ranks for image generation and editing, placing sixth globally behind GPT Image 2.x variants, with a competitive preference-vs-price showing.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>OpenAI GPT-6.2 Astra and Sol land on Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/en/release/vercel-gpt-6-2-astra-sol/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/vercel-gpt-6-2-astra-sol/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: openai/gpt-6.2-astra and openai/gpt-6.2-sol on AI Gateway with Responses, fast mode, and Ultrafast (service_tier ultrafast); Astra Ultrafast output cited ~60% below GPT-6 Astra.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>SenseTime ships SenseNova Loop-9B GA with looped depth</title>
+    <link>https://7news.aiaaii.com/en/release/sensenova-loop-9b/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/sensenova-loop-9b/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>SenseTime’s SenseNova Loop-9B GA: ~9B params, shared middle layers run twice for 56 layer passes, 512K context; cites NL2Repo/AIDABench near Qwen3.8-27B; weights and AWQ 4bit open.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>OpenAI deepens NATO and allied cyber defense via Daybreak</title>
+    <link>https://7news.aiaaii.com/en/release/openai-nato-daybreak-cyber/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/openai-nato-daybreak-cyber/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>OpenAI: Daybreak cyber models for NCIA—up to ~300B raw tokens/month cited; support for CCDCOE Crossed Swords AI-agent training; ENISA, Ukraine, and CERT Polska among allied examples.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>OpenAI ships GPT-6.2 Astra and Sol for hard projects and everyday work</title>
+    <link>https://7news.aiaaii.com/en/release/openai-gpt-6-2-astra-sol/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/openai-gpt-6-2-astra-sol/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>OpenAI: GPT-6.2 Astra for complex multi-step projects, Sol for everyday coding and agents; Astra API at $8/$40 per M in/out ($0.40 cached), Sol keeps 6.1 Sol rates; ChatGPT Work, Codex, and API at launch.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>OpenAI updates Astra for Law; Enterprise can request Trusted Access</title>
+    <link>https://7news.aiaaii.com/en/release/openai-astra-for-law/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/openai-astra-for-law/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>OpenAI: GPT-6.2 Astra legal config ~20.8% full-credit on Harvey LAB-AA; ~53.8% full-credit on Vals Legal Research; index +~34%; ChatGPT Enterprise Trusted Access and API request form.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Tencent Hy4 Flash on Vercel AI Gateway at 50% off through Nov 29</title>
+    <link>https://7news.aiaaii.com/en/release/vercel-hy4-flash/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/vercel-hy4-flash/</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: tencent/hy4-flash keeps the Hy4 feature set at roughly a tenth of the token price; 50% off input, cached input, and output through 29 Nov 2026.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>OpenAI expands free ChatGPT access for academic researchers toward 200k</title>
+    <link>https://7news.aiaaii.com/en/release/openai-academic-researchers/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/openai-academic-researchers/</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>OpenAI: ChatGPT for Academic Researchers opens applications 23 Nov—50k first-come grants (Plus for recipient + up to two collaborators); program goal 200k; data not used for training by default.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Alibaba Qwen4-Max lands on Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/en/release/vercel-qwen4-max/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/vercel-qwen4-max/</guid>
+    <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: alibaba/qwen4-max for coding and long-running agents—image input, 1M context, tools, structured outputs; Alibaba cites ~35% fewer tokens vs Qwen3.8-Max on Work360.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>DeepSeek opens App capabilities on the API: search, files, links, and voice</title>
+    <link>https://7news.aiaaii.com/en/release/deepseek-app-api/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/deepseek-app-api/</guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    <description>DeepSeek’s 13 Nov 2026 API note makes App-parity features callable: V4.1-Flash built-in web search, URL reading, file parsing, and safety checks, plus standalone OCR/ASR/TTS and an open-source demo.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Cohere closes AISLE deal and adds cubic to its sovereign AI platform</title>
+    <link>https://7news.aiaaii.com/en/release/cohere-sovereign-aisle-cubic/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/cohere-sovereign-aisle-cubic/</guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Cohere: completes the AISLE acquisition for autonomous vuln discovery/remediation and welcomes the cubic code-review team—its fourth strategic M&amp;A this year for sovereign AI.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Inkling 2 Small lands on Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/en/release/vercel-inkling-2-small/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/vercel-inkling-2-small/</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: thinkingmachines/inkling-2-small on AI Gateway for coding agents and knowledge work—text and image in, text out.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Gemini 4 Hydrogen arrives on Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/en/release/vercel-gemini-4-hydrogen/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/vercel-gemini-4-hydrogen/</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: google/gemini-4-hydrogen succeeds 3.8 Flash on AI Gateway with stronger agentic coding, knowledge work, and tool orchestration.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Moonshot open-sources Kimi K2.6 for long-horizon coding and swarms</title>
+    <link>https://7news.aiaaii.com/en/release/kimi-k2-6/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/kimi-k2-6/</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Moonshot releases open Kimi K2.6 with long-horizon coding, Agent Swarm (up to ~300 sub-agents), and proactive-agent focus via Kimi.com, App, API, and Kimi Code.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Google ships Gemini 4 Hydrogen for everyday agentic coding</title>
+    <link>https://7news.aiaaii.com/en/release/deepmind-gemini-4-hydrogen/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/deepmind-gemini-4-hydrogen/</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    <description>DeepMind/Google: Hydrogen targets daily agentic workflows; AA Index 51 at default high (54 at xhigh); flat API pricing $1.50/$7.50 per M in/out across 1M context.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Moonshot’s PerceptionBench isolates atomic visual perception in MLLMs</title>
+    <link>https://7news.aiaaii.com/en/eval/moonshot-perception-bench/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/eval/moonshot-perception-bench/</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Kimi Team’s PerceptionBench: 10 atomic skills mined from failures across 42 benches, 3,000 questions; none of 16 frontier MLLMs reach 60%, with hallucination weakest on average.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>OpenAI says 20,000+ veterans claimed a free year of ChatGPT Plus</title>
+    <link>https://7news.aiaaii.com/en/release/openai-chatgpt-plus-veterans/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/openai-chatgpt-plus-veterans/</guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    <description>OpenAI’s update on free ChatGPT Plus for veterans and transitioning servicemembers: more than 20,000 claims in the past year, plus Academy trainings.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>DeepMind ships AlphaGenome 2: cell-type–conditioned DNA effect prediction</title>
+    <link>https://7news.aiaaii.com/en/release/deepmind-alphagenome-2/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/deepmind-alphagenome-2/</guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Google DeepMind’s next DNA model predicts under a chosen biological condition and roughly doubles causal-variant recall on single-cell tests; research API open, commercial use in private preview.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Gemini 4 Carbon lands on Vercel AI Gateway at 50% off through Nov 30</title>
+    <link>https://7news.aiaaii.com/en/release/vercel-gemini-4-carbon-gateway/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/vercel-gemini-4-carbon-gateway/</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog adds google/gemini-4-carbon on AI Gateway—framed for engineering, agentic work, and cyber defense—with 50% off through 2026-11-30.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Gemini 4 Carbon is live: heavier agentic and cyber workloads</title>
+    <link>https://7news.aiaaii.com/en/release/gemini-4-carbon/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/gemini-4-carbon/</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Google DeepMind opens Gemini 4 Carbon to developers, enterprises, and Ultra users. It sits above Argon for long-horizon agents, with intro pricing through 30 Nov 2026.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Anthropic launches the roadshow for its proposed IPO</title>
+    <link>https://7news.aiaaii.com/en/release/anthropic-ipo-roadshow/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/anthropic-ipo-roadshow/</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Anthropic began the roadshow for a proposed IPO of about 825 million Class A shares at an expected $70–$78 range, seeking a Nasdaq listing under ANT.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Moonshot launches Kimi K3, an open 2.8T-class frontier model</title>
+    <link>https://7news.aiaaii.com/en/release/kimi-k3/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/kimi-k3/</guid>
+    <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Moonshot’s Kimi K3 is a 2.8T-parameter model with native vision and a 1M-token context, built on KDA and Attention Residuals; products and API are live while weights follow the official schedule.</description>
+    <category>llm</category>
+  </item>
+</channel>
+</rss>

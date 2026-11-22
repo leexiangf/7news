@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>7News · AI 创作</title>
+  <link>https://7news.aiaaii.com/feed-ai-creation.xml</link>
+  <description>AI 创作频道：官方来源上的原创摘要与分析</description>
+  <language>zh-CN</language>
+  <lastBuildDate>Thu, 19 Nov 2026 00:00:00 GMT</lastBuildDate>
+  <atom:link href="https://7news.aiaaii.com/feed-ai-creation.xml" rel="self" type="application/rss+xml"/>
+    <item>
+    <title>PolyAI Dialog-RSN-1 上架 SageMaker JumpStart，可私有化部署实时对话</title>
+    <link>https://7news.aiaaii.com/gen-av/polyai-dialog-rsn-1-sagemaker-jumpstart/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/gen-av/polyai-dialog-rsn-1-sagemaker-jumpstart/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>PolyAI Dialog-RSN-1 登陆 Marketplace 与 JumpStart：自有 VPC 部署实时语音端点，兼容 OpenAI Realtime；16-bit PCM mono 16/24 kHz；连接最长约 30 分钟；目前仅英语。</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>Genie 4 对 Ultra 用户开放：实时改世界、原生音频与社区画廊</title>
+    <link>https://7news.aiaaii.com/gen-av/genie-4-available/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/gen-av/genie-4-available/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Google DeepMind 宣布 Project Genie 更新：Genie 4 面向合格 Google AI Ultra 订户滚动开通，支持自然语言实时编辑环境、自适应音频与社区分享；Pro 可候补。</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>Microsoft MAI-Image-2.7 / Flash 上架 Vercel AI Gateway（公测）</title>
+    <link>https://7news.aiaaii.com/gen-image/vercel-mai-image-2-7/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/gen-image/vercel-mai-image-2-7/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog：microsoft/mai-image-2.7 与 mai-image-2.7-flash 公测入 AI Gateway； 最高 2048×2048，支持透明背景与最多五张参考图编辑；无需微软账号。</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>南京博物院 × 商汤，VR 大空间走进《坤舆万国全图》</title>
+    <link>https://7news.aiaaii.com/gen-av/sensetime-nanjing-museum-kunyu-vr/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/gen-av/sensetime-nanjing-museum-kunyu-vr/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>商汤通稿：南博主导、商汤做数字内容与 AI+VR 的《观天下·坤舆万国全图》亮相第十一届博博会；称完整版自 2025-07 累计超 28 万人次，原画效率约 10×。</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>字节 Seedance 2.5 Flash 上架 Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/gen-av/vercel-seedance-2-5-flash/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/gen-av/vercel-seedance-2-5-flash/</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog：bytedance/seedance-2.5-flash 入 AI Gateway；更快更便宜档，文/图/视频/音频 参考生成带音画同步短片，4–30 秒、最高 720p@24fps；需 AI SDK 7。</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>商汤 Seko 助力 AI 短片《无敌超人》获金鸡奖技术应用荣誉</title>
+    <link>https://7news.aiaaii.com/gen-av/sensetime-seko-golden-rooster/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/gen-av/sensetime-seko-golden-rooster/</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>商汤称其 AI 视频平台 Seko 为《无敌超人》提供工具与算力；该片获第 39 届金鸡奖 2026 金鸡未来影像 AI 单元年度技术应用奖。</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>MiniMax H3 Image 上线 Vercel AI Gateway（含 Highspeed）</title>
+    <link>https://7news.aiaaii.com/gen-image/vercel-minimax-h3-gateway/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/gen-image/vercel-minimax-h3-gateway/</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog：minimax/minimax-h3-image 与 highspeed 变体可在 AI Gateway 文生图与改图，支持自定义尺寸至 2K/4K，无需单独 MiniMax 账号。</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>字节 Seedream 5.5：百轮编辑更稳，原生 RGBA 透明素材</title>
+    <link>https://7news.aiaaii.com/gen-image/seedream-5-5/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/gen-image/seedream-5-5/</guid>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+    <description>字节 Seed 发布 Seedream 5.5：非编辑区像素级保持、最长约 100 轮连续编辑，新增原生 RGBA 透明输出，并改善质感与文字清晰度；陆续上线即梦/豆包/方舟。</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>商汤小浣熊案例：SenseNova U1 Pro 的多轮生图用法</title>
+    <link>https://7news.aiaaii.com/gen-image/sensetime-raccoon-u1-pro-cases/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/gen-image/sensetime-raccoon-u1-pro-cases/</guid>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+    <description>商汤新闻用两则用户故事说明小浣熊接入 SenseNova U1 Pro 后，如何处理多层指令的国风创作与业务示意图，并强调多轮调整。</description>
+    <category>ai-creation</category>
+  </item>
+</channel>
+</rss>

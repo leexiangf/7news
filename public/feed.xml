@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>7News · 中文</title>
+  <link>https://7news.aiaaii.com/feed.xml</link>
+  <description>AI 实战资讯：官方来源上的原创摘要与分析（中文）</description>
+  <language>zh-CN</language>
+  <lastBuildDate>Sat, 21 Nov 2026 00:00:00 GMT</lastBuildDate>
+  <atom:link href="https://7news.aiaaii.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+    <title>Ollama 0.40.17：上线 Inkling 2 Mini，Apple Silicon 可并发多请求</title>
+    <link>https://7news.aiaaii.com/infra/ollama-0-40-17/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/infra/ollama-0-40-17/</guid>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Ollama v0.40.17 加入 Thinking Machines 的 Inkling 2 Mini（约 26B/5.4B 活跃），并宣布 Apple Silicon 可同时服务多请求；本版仅支持 Apple Silicon。</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>商汤亮相 APEC 领导人会议周：外交与城市场景展示 AI 应用</title>
+    <link>https://7news.aiaaii.com/release/sensetime-apec-2026/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/release/sensetime-apec-2026/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>商汤称在深圳第 33 次 APEC 领导人非正式会议周期间，于外宾休息厅、前海浪湾等展示 SenseRobot、Raccoon Work、Seko 视频 Agent 与四足机器人等——活动展示，非新模型发版。</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>字节 Seed STEM：分子逆合成挑战赛启动</title>
+    <link>https://7news.aiaaii.com/release/seed-stem-challenge/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/release/seed-stem-challenge/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Seed STEM 分子逆合成挑战赛：10 道真题、火山方舟提交；奖金一等 5 万；仅限中国大陆；报名至 12 月 4 日，CRO 湿实验验证。</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Anthropic 宣布 IPO 交割完成，ANT 已于纳斯达克开盘</title>
+    <link>https://7news.aiaaii.com/release/anthropic-ipo-close/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/release/anthropic-ipo-close/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Anthropic：IPO 交割完成且超额配售全额行使；A 类 83 美元/股，约 11.27 亿股，公司所得约 916 亿美元；并行 Class N 私募约 260 亿美元，合计毛额约 1195 亿美元。</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>OpenAI 商业与企业计划定价页要点</title>
+    <link>https://7news.aiaaii.com/pricing/openai-api-pricing-snapshot/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/pricing/openai-api-pricing-snapshot/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>OpenAI Business / Enterprise 定价导航：Standard seat 工作区能力、API 额度与 Enterprise 定制；席位费与 API 用量须分开建模，以官网实时页为准。</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>DeepSeek API：deepseek-flash 命名与峰时计价规则</title>
+    <link>https://7news.aiaaii.com/pricing/deepseek-pricing-snapshot/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/pricing/deepseek-pricing-snapshot/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>调用名用 deepseek-flash（V4.1-Flash-1017）；旧名仍可接受但按 Flash 价；非峰时为峰时一半；Flash 输入 cache miss 峰时约 $0.3/MTok。</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Anthropic Claude 套餐分层：Free、Pro、Max 与 Ultra</title>
+    <link>https://7news.aiaaii.com/pricing/anthropic-pricing-snapshot/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/pricing/anthropic-pricing-snapshot/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Claude 个人档：Free；$17/月年付（或 $20 月付）Pro；$100 Max；$200 Ultra。Max/Ultra 含每月 $100/$200 API 额度；聊天套餐与 API 平台须分开核对。</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>LlamaIndex 推出 ParseBench-2：面向文档解析的严重度感知基准</title>
+    <link>https://7news.aiaaii.com/eval/llamaindex-parsebench-2/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/eval/llamaindex-parsebench-2/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>ParseBench-2：330+ 错误类型按严重度校准确定性指标；语料约 2.1k→4.3k；六维含表单；LlamaParse Agentic Plus 总分约 89.8（厂商榜）。</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Kimi 发布 WorldVQA：用 3500 题测多模态「认不认得这个实体」</title>
+    <link>https://7news.aiaaii.com/eval/kimi-worldvqa/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/eval/kimi-worldvqa/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>WorldVQA：约 3500 条图问对、9 类、头/尾分布；测 MLLM 事实正确性；官方称前沿模型长尾常低于 50%；并报告校准 ECE / Slope。</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>HyperPod Global Inference Gateway：跨 Region 集群共用一个推理入口</title>
+    <link>https://7news.aiaaii.com/infra/sagemaker-hyperpod-global-inference-gateway/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/infra/sagemaker-hyperpod-global-inference-gateway/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AWS：SageMaker HyperPod 推出 Global Inference Gateway，把多集群/多 Region 收成一个 SigV4 端点，按 KV 余量、队列、邻近与错误率选集群并自动 failover。</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>HyperPod Slurm 上线托管集群扩展：可观测与用户管理</title>
+    <link>https://7news.aiaaii.com/infra/sagemaker-hyperpod-cluster-extensions/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/infra/sagemaker-hyperpod-cluster-extensions/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AWS：SageMaker HyperPod Slurm 推出 cluster extensions，用 API/控制台声明式安装可观测与用户管理扩展， 校验配置并在扩缩节点上保持一致。</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>llama.cpp b12563 修 CUDA 专家回退精度，b12564 优化 Orin MMVQ</title>
+    <link>https://7news.aiaaii.com/infra/llama-cpp-b12564-b12563/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/infra/llama-cpp-b12564-b12563/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>llama.cpp 连续打出 b12563 与 b12564：前者把 per-expert 回退路径的 dst slice 设为 GGML_OP_MUL_MAT，避免请求精度被忽略；后者优化 Orin 单列 MMVQ。附路径边界与复测要点。</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>Foundry Managed Compute 正式 GA，托管 GPU 上直接跑开源模型</title>
+    <link>https://7news.aiaaii.com/infra/foundry-managed-compute-ga/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/infra/foundry-managed-compute-ga/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Microsoft：Foundry Managed Compute 正式 GA，目录 150+ 开源模型，可选 NVIDIA A100/H100/H200 与 AMD MI300X；另预览 LoRA 适配器部署与自带权重。</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>AWS 发布分布式 KV 缓存 Agent Skill，自托管推理可估省成本与 TTFT</title>
+    <link>https://7news.aiaaii.com/cost/aws-distributed-kv-caching-agent-skill/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/cost/aws-distributed-kv-caching-agent-skill/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AWS：Agent Toolkit 新增 distributed KV caching skill，引导编码 Agent 用 ElastiCache 共享 KV；文称可最高约降 40% 成本、80% TTFT（厂商基准）。</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>LlamaIndex 谈 KYC 自动化：用文档 Agent 替换规模化人工核验</title>
+    <link>https://7news.aiaaii.com/workflow/llamaindex-kyc-automation/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/workflow/llamaindex-kyc-automation/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>LlamaIndex KYC 用例文：五阶段流程（采集→核验抽取→制裁筛查→风险评分→持续监测）；强调文档解析是短板；合规不能替代法律意见。</description>
+    <category>ai-office</category>
+  </item>
+  <item>
+    <title>Codex 0.171：默认 TUI 工作区，目录加入 GPT-6.2 Sol / Astra</title>
+    <link>https://7news.aiaaii.com/cli-agent/openai-codex-0-171/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/cli-agent/openai-codex-0-171/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Codex rust-v0.171.0：默认 TUI workspace；模型目录加入 GPT-6.2 Sol（默认）与 Astra；exec --remote、/rc、可配置 undo/redo；工具链 Rust 1.99.1。</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Claude Code 2.1.330：企业控制台登录与内置图表 mod easel</title>
+    <link>https://7news.aiaaii.com/cli-agent/claude-code-2-1-330/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/cli-agent/claude-code-2-1-330/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Anthropic：Claude Code v2.1.330 支持 Enterprise Admin Console 组织登录，新增内置图表 mod easel，并修复长会话 compact 卡顿、WebFetch 冻结等大量问题。</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>腾讯云 MCP 广场开源内容转载需获授权</title>
+    <link>https://7news.aiaaii.com/mcp/tencent-mcp-square-copyright/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/mcp/tencent-mcp-square-copyright/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>腾讯云开发者社区「MCP广场开源版权声明」：文章经作者授权发表，未经许可不得转载——规则说明，非功能上新。</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Kimi Agent Swarm：最多百级子 Agent 并行，顶层订阅研究预览</title>
+    <link>https://7news.aiaaii.com/harness/kimi-agent-swarm/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/harness/kimi-agent-swarm/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Agent Swarm 以自组织分工替代单 Agent 长程串行；K2.5 可并行约 100 子 Agent、逾 1500 次工具调用，相对串行约快 4.5×；顶层订阅研究预览。</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Liquid AI d1.2 / d1.2-ultra 上架 Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/release/vercel-liquid-d1-2/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/release/vercel-liquid-d1-2/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel：Liquid AI d1.2 / d1.2-ultra 决策模型上架 AI Gateway；Boolean / Choice / Score / Box；支持音频与图像；调用名 liquid/d1.2(-ultra)。</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Vercel AI Gateway 上架 GPT-Live 1.1 全双工语音模型</title>
+    <link>https://7news.aiaaii.com/release/vercel-gpt-live-1-1/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/release/vercel-gpt-live-1-1/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel：openai/gpt-live-1.1 经 AI Gateway 可用；全双工、可打断；转写与跨语言音色更稳；沿用原 Live 端点，通常只换模型 ID。</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Google Dialogues：Walter Isaacson 谈 AI 时代的好奇心与创造力</title>
+    <link>https://7news.aiaaii.com/release/google-dialogues-walter-isaacson/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/release/google-dialogues-walter-isaacson/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Google 播客 Dialogues 一集：Kent Walker 与 Walter Isaacson 谈历史突破的协作本质，以及信息随时可得时判断力为何更关键——观点对谈，非产品发版。</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>SageMaker 默认定时巡检推理端点：延迟漂移、闲置 GPU 与漏开优化</title>
+    <link>https://7news.aiaaii.com/infra/sagemaker-latency-drift-idle-gpu-recommendations/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/infra/sagemaker-latency-drift-idle-gpu-recommendations/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>SageMaker AI 对 vLLM+GPU 端点默认监测周环比延迟/TTFT、闲置 GPU 与未开 speculative decoding 等；经 AWS Health 通知，旁路压测后人工决定是否改生产。</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>AWS 回顾 2026 SageMaker Inference 发布（第二部分）</title>
+    <link>https://7news.aiaaii.com/infra/sagemaker-inference-2026-review/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/infra/sagemaker-inference-2026-review/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AWS《SageMaker Inference 2026 launches in review, part 2》：把当年推理侧已上线能力收成导航文——非单条新 API，细节回文内各公告。</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>SageMaker 推出跨 Region 推理路由，单入口兜住区域容量缺口</title>
+    <link>https://7news.aiaaii.com/infra/sagemaker-cross-region-inference-routing/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/infra/sagemaker-cross-region-inference-routing/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>SageMaker AI inference router：把多 Region/账号已有端点注册为目的地；本区健康优先本地，容量不足时把新请求切到其他目的地——不创建容量。</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>NVIDIA DAQIRI：科学仪器高带宽数据直送 GPU，边采边推理</title>
+    <link>https://7news.aiaaii.com/infra/nvidia-daqiri-scientific-instruments/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/infra/nvidia-daqiri-scientific-instruments/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Holoscan 采集库 DAQIRI：伯克利分子铸造厂 HDR 电镜相机超 500 Gbps 直入 GPU；新增硬件包重排、ibverbs 约 2× 吞吐、直轮询约 2–4 µs 延迟。</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>NVIDIA 谈 AI 基建供应链：制造伙伴如何支撑平台量产节奏</title>
+    <link>https://7news.aiaaii.com/infra/nvidia-ai-infra-supply-chain/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/infra/nvidia-ai-infra-supply-chain/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>运营负责人 Deb Shoquist 访谈：与台积电（自 1998）、富士康、纬创等伙伴协作；Amphenol 线缆匣约 1500 腿、目标低于 1 DPPM；晶片出厂到系统出货最短约两周。</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>Lambda 用 NVIDIA 光子 CPO 交换机连接万卡级 GB300 集群</title>
+    <link>https://7news.aiaaii.com/infra/lambda-nvidia-photonics/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/infra/lambda-nvidia-photonics/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Lambda 以 NVIDIA Photonics CPO 连接超万卡 GB300 NVL72；自测机架延迟约降 4%、Pod 最高约 10%；功耗效率最高约 5×、可靠性最高约 15×（相对可插拔光，厂商口径）。</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>商汤推出小浣熊·金融版，覆盖信贷到投研五场景</title>
+    <link>https://7news.aiaaii.com/workflow/sensetime-raccoon-finance/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/workflow/sensetime-raccoon-finance/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>小浣熊·金融版：信贷风控、保险理赔、合规、经营分析、投研；通稿称平安银行尽调约 30 分钟、流水约 4 小时→15 分钟——合作方/厂商自述。</description>
+    <category>ai-office</category>
+  </item>
+  <item>
+    <title>PolyAI Dialog-RSN-1 上架 SageMaker JumpStart，可私有化部署实时对话</title>
+    <link>https://7news.aiaaii.com/gen-av/polyai-dialog-rsn-1-sagemaker-jumpstart/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/gen-av/polyai-dialog-rsn-1-sagemaker-jumpstart/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>PolyAI Dialog-RSN-1 登陆 Marketplace 与 JumpStart：自有 VPC 部署实时语音端点，兼容 OpenAI Realtime；16-bit PCM mono 16/24 kHz；连接最长约 30 分钟；目前仅英语。</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>AWS 说明如何在 Amazon Bedrock 上使用 Kimi Code CLI</title>
+    <link>https://7news.aiaaii.com/cli-agent/kimi-code-cli-bedrock/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/cli-agent/kimi-code-cli-bedrock/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AWS how-to：把 Kimi Code CLI 接到 Bedrock 模型入口——鉴权、模型 ID、CLI 配置与调用路径；非新模型发版。</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Claude Code 2.1.329：强化 /tasks、钩子信任提示与大量稳定性修复</title>
+    <link>https://7news.aiaaii.com/cli-agent/claude-code-2-1-329/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/cli-agent/claude-code-2-1-329/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Claude Code v2.1.329：钩子信任提示、/tasks 纳入定时与 /loop、/mcp 远端拒绝原因；修 Keychain 反复登出、Code Mode 内存与 /code-review 等；同日另有 2.1.328。</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>NVIDIA：用 AI Agent 在 Rust 里为新模型做工具调用解析器</title>
+    <link>https://7news.aiaaii.com/mcp/nvidia-rust-tool-calling-parsers/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/mcp/nvidia-rust-tool-calling-parsers/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>frontend-crates：与 Dynamo 同源的 Rust 工具调用解析组件；Agent 生成解析器+测试；处理截断、畸形调用与标记泄漏等边界。</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>LangSmith Tool Gateway 公测：统一管工具身份与策略</title>
+    <link>https://7news.aiaaii.com/mcp/langsmith-tool-gateway/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/mcp/langsmith-tool-gateway/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>LangSmith Tool Gateway 公测：单一 kit URL 管 MCP/内置工具的凭证、身份、拒绝/审批与追踪；与 LLM Gateway 并列；兼容 Claude Code / Cursor 等 MCP 客户端。</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Skyflow 拦截器挂上 AgentCore Gateway，工具调用可去标识</title>
+    <link>https://7news.aiaaii.com/mcp/aws-skyflow-agentcore-gateway-interceptor/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/mcp/aws-skyflow-agentcore-gateway-interceptor/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Skyflow Detect 作为 AgentCore Gateway 请求/响应拦截器：工具参数、模型上下文与文档链接 vault 令牌化；三种 Shield 模式；默认 fail closed；无需改 agent/工具代码。</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>AgentCore Payments 接入 Marketplace x402，代理可用美元记入 AWS 账单</title>
+    <link>https://7news.aiaaii.com/mcp/aws-agentcore-marketplace-x402-payments/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/mcp/aws-agentcore-marketplace-x402-payments/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AgentCore Payments 增加 AWS Billing：代理发现并购买 Marketplace x402 商品，按次以美元记入开发者 AWS 账单；会话预算 + Gateway 连接器；无需稳定币钱包。</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>AgentCore Harness 升级：默认搭上 Strands，并加生命周期钩子</title>
+    <link>https://7news.aiaaii.com/harness/aws-agentcore-harness-strands-lifecycle-hooks/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/harness/aws-agentcore-harness-strands-lifecycle-hooks/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AgentCore Harness 默认改用开源 Strands；内置工具与上下文管理；生命周期钩子可 allow/deny 工具调用；现有 harness 自动获得升级。</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Google Gemini 4 Neon 上架 Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/release/vercel-gemini-4-neon/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/release/vercel-gemini-4-neon/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog：google/gemini-4-neon 入 AI Gateway；面向编码与 Agent，多模态、1M 上下文、工具调用与 Search/Maps grounding；推理档 low–xhigh。</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>商汤公布 2026 年前三季度业务进展：收入增 30.4%，生成式 AI 提速</title>
+    <link>https://7news.aiaaii.com/release/sensetime-q3-2026-update/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/release/sensetime-q3-2026-update/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>商汤披露截至 2026-09-30 九个月业绩：收入同比增 30.4% 至 37.9 亿元，毛利率 43.4%；并概述 SenseNova 产品与 Token/智能体商业化进展（中英官方稿合并）。</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>OpenAI Performance Factory：用 Codex Agent 把性能回归从告警修到验收</title>
+    <link>https://7news.aiaaii.com/release/openai-performance-factory/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/release/openai-performance-factory/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>OpenAI 介绍 Performance Factory：工程师定义可配置工作流，云端 Codex Agent 在性能告警后调查、提案修复，并由另一 Agent 验收是否回到基线。</description>
+    <category>llm</category>
+  </item>
+</channel>
+</rss>

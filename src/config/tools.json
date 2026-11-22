@@ -1,0 +1,24 @@
+{
+  "tools": [
+    {
+      "id": "token-estimate",
+      "slug": "token-estimate",
+      "title": "Token 粗估计算器",
+      "titleEn": "Token Estimate",
+      "description": "按字符与语言粗估提示词规模，便于排期与预算；不替代官方 tokenizer。",
+      "descriptionEn": "Rough prompt-size estimates by character and language for planning—not a substitute for an official tokenizer.",
+      "purpose": "在写提示词或设计 Agent 上下文窗口时，快速估算输入规模。",
+      "purposeEn": "Quickly gauge input size when drafting prompts or sizing an agent context window.",
+      "scenarios": [
+        "设计系统提示词长度上限",
+        "对比中英文提示的大致 Token 差",
+        "给产品排期一个「上下文预算」参考值"
+      ],
+      "scenariosEn": [
+        "Set a length budget for system prompts",
+        "Compare rough token cost between Chinese and English prompts",
+        "Give product planning a context-window reference"
+      ]
+    }
+  ]
+}

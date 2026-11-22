@@ -1,0 +1,40 @@
+# Dependencies & build
+node_modules
+.next
+out
+.wrangler
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+*.local
+tsconfig.tsbuildinfo
+
+# Generated at build (rebuilt by prebuild)
+public/data/feed
+public/data/search-index.json
+
+# --- Private: editorial / crawl / agent internals (not for public repo) ---
+.agents/
+.cursor/
+.firecrawl/
+.impeccable/
+docs/
+prompts/
+ops/
+tools/crawl/
+tools/setup/
+tools/content/build-nov-backfill-pool.mjs
+content/inbox/
+content/preview/
+content/assets/
+src/config/sources.json
+skills-lock.json
+_list_recent_undone.py
+
+# Local scratch
+*.pem
+*.key
+credentials*.json
+service-account*.json

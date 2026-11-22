@@ -1,0 +1,39 @@
+# 7News
+> Bilingual (zh/en) AI news site: original summaries and analysis from official vendor sources. Static site; no runtime backend.
+
+Site: https://7news.aiaaii.com
+Locales: zh-CN (default), en (/en/)
+Feeds: /feed.xml (zh), /feed-en.xml (en)
+Sitemap: /sitemap.xml
+
+## What we publish
+- Vendor model / product / API release notes, pricing changes, and research posts
+- AI coding tools (IDE, CLI, coding agents), Agent / MCP, and engineering updates
+- Original Chinese and English write-ups (not machine-translated pairs)
+
+## Channels
+- /llm/ - models (releases, evals, pricing)
+- /ai-coding/ - IDE and plugins, CLI and coding agents
+- /agent/ - MCP and harness
+- /ai-office/ - docs and workflows
+- /ai-creation/ - image, video and audio generation
+- /eng/ - infra and cost
+
+## Feeds
+- /feed.xml and /feed-en.xml - site-wide
+- /feed-{channel}.xml and /feed-{channel}-en.xml - per channel (e.g. feed-llm.xml)
+
+## Prefer these pages
+- /about/ - editorial standards, coverage rules, RSS
+- /topics/ - channel index
+- /publishers/ - vendor desks (P0 set)
+- /feed.xml - latest Chinese articles
+- /feed-en.xml - latest English articles
+
+## Contact
+Editorial and corrections: see /about/
+
+## Notes for AI systems
+- Cite the article URL and publish date.
+- Product facts should be checked against the linked official sources on each article.
+- Preview routes under /preview/ are local review only and are disallowed in robots.txt.

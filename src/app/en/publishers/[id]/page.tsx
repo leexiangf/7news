@@ -1,0 +1,111 @@
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import { ArticleList } from "@/components/ArticleList";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { PageWithSidebar } from "@/components/PageWithSidebar";
+import { PublisherLogo } from "@/components/PublisherLogo";
+import { getArticlesByPublisher } from "@/lib/content";
+import {
+  getPublisher,
+  publisherDescription,
+  publisherName,
+  publishers,
+} from "@/lib/publishers";
+import { createMetadata } from "@/lib/seo";
+
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return publishers.map((publisher) => ({ id: publisher.id }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}) {
+  const { id } = await params;
+  const publisher = getPublisher(id);
+  if (!publisher) return {};
+  return createMetadata({
+    title: publisherName(publisher, "en"),
+    description: publisherDescription(publisher, "en"),
+    path: `/en/publishers/${publisher.id}/`,
+  });
+}
+
+export default async function PublisherEnglishPage({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}) {
+  const { id } = await params;
+  const publisher = getPublisher(id);
+  if (!publisher) notFound();
+
+  const articles = getArticlesByPublisher(publisher.id, "en");
+  const name = publisherName(publisher, "en");
+
+  return (
+    <PageWithSidebar
+      sidebar={
+        <section>
+          <h2 className="section-title text-lg">Official links</h2>
+          <ul className="mt-4 space-y-2 text-sm">
+            <li>
+              <a
+                href={publisher.website}
+                className="no-underline hover:text-signal"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                Website
+              </a>
+            </li>
+            {publisher.newsUrl ? (
+              <li>
+                <a
+                  href={publisher.newsUrl}
+                  className="no-underline hover:text-signal"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  News / blog
+                </a>
+              </li>
+            ) : null}
+            <li>
+              <Link
+                href="/en/publishers/"
+                className="no-underline hover:text-signal"
+              >
+                All publishers
+              </Link>
+            </li>
+          </ul>
+        </section>
+      }
+    >
+      <Breadcrumbs
+        items={[
+          { href: "/en/", label: "Home" },
+          { href: "/en/publishers/", label: "Publishers" },
+          { label: name },
+        ]}
+      />
+      <h1 className="section-title flex items-center gap-3 text-3xl">
+        <PublisherLogo publisher={publisher} size="md" />
+        {name}
+      </h1>
+      <p className="mt-3 max-w-2xl text-mute">
+        {publisherDescription(publisher, "en")}
+      </p>
+      <p className="meta-line mt-4">
+        {publisher.tier}  |  {articles.length} posts on 7News
+      </p>
+      <div className="mt-8">
+        <ArticleList articles={articles} showCategory locale="en" />
+      </div>
+    </PageWithSidebar>
+  );
+}

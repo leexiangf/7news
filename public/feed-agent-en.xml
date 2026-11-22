@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>7News · Agents</title>
+  <link>https://7news.aiaaii.com/feed-agent-en.xml</link>
+  <description>Agents channel: original summaries from official sources</description>
+  <language>en</language>
+  <lastBuildDate>Fri, 20 Nov 2026 00:00:00 GMT</lastBuildDate>
+  <atom:link href="https://7news.aiaaii.com/feed-agent-en.xml" rel="self" type="application/rss+xml"/>
+    <item>
+    <title>Tencent Cloud MCP Square open-content reprints need authorization</title>
+    <link>https://7news.aiaaii.com/en/mcp/tencent-mcp-square-copyright/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/tencent-mcp-square-copyright/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Tencent Cloud developer community copyright notice for MCP Square: posts are author-authorized; no reprint without permission—policy note, not a feature launch.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Kimi Agent Swarm: up to ~100 parallel sub-agents, top-tier research preview</title>
+    <link>https://7news.aiaaii.com/en/harness/kimi-agent-swarm/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/kimi-agent-swarm/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Agent Swarm replaces long-horizon single-agent serial work with self-organized division of labor; with K2.5, up to ~100 sub-agents and 1,500+ tool calls, ~4.5× faster than serial—top-tier research preview.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>NVIDIA: build Rust tool-calling parsers for new models with AI agents</title>
+    <link>https://7news.aiaaii.com/en/mcp/nvidia-rust-tool-calling-parsers/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/nvidia-rust-tool-calling-parsers/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>frontend-crates: reusable Rust tool-call parsers shared with Dynamo; agents generate parsers + tests; handle truncation, malformed calls, and markup leaks.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>LangSmith Tool Gateway public preview: unified tool identity and policy</title>
+    <link>https://7news.aiaaii.com/en/mcp/langsmith-tool-gateway/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/langsmith-tool-gateway/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>LangSmith Tool Gateway preview: one kit URL for MCP/built-in tool credentials, identity, deny/approval, and tracing—alongside LLM Gateway; works with Claude Code / Cursor MCP clients.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Skyflow interceptor on AgentCore Gateway de-identifies tool calls</title>
+    <link>https://7news.aiaaii.com/en/mcp/aws-skyflow-agentcore-gateway-interceptor/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/aws-skyflow-agentcore-gateway-interceptor/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Skyflow Detect as an AgentCore Gateway request/response interceptor: vault tokenization for tool args, model context, and document links; three Shield modes; fail-closed by default; no agent/tool code changes.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>AgentCore Payments adds Marketplace x402 billed in USD on the AWS invoice</title>
+    <link>https://7news.aiaaii.com/en/mcp/aws-agentcore-marketplace-x402-payments/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/aws-agentcore-marketplace-x402-payments/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AgentCore Payments adds AWS Billing so agents can discover and buy Marketplace x402 products, charged per use in USD on the developer’s AWS bill—session budgets and Gateway connector; no stablecoin wallet.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>AgentCore Harness upgrade: Strands defaults and lifecycle hooks</title>
+    <link>https://7news.aiaaii.com/en/harness/aws-agentcore-harness-strands-lifecycle-hooks/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/aws-agentcore-harness-strands-lifecycle-hooks/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AgentCore Harness defaults to open-source Strands; built-in tools and context management; lifecycle hooks can allow/deny tool calls; existing harnesses pick up the upgrade automatically.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Foundry Toolboxes expand skills, Web IQ search, and A2A orchestration</title>
+    <link>https://7news.aiaaii.com/en/mcp/foundry-tools-toolboxes/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/foundry-tools-toolboxes/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Foundry Blog: Toolboxes share tools/skills/agents via one MCP endpoint; Ignite adds Skills, Web IQ search, Fabric/Work IQ, A2A GA, Snowflake/MongoDB/Databricks, plus browser automation and Computer Use GA.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Foundry Browser Automation: enterprise cloud browsers via MCP tools</title>
+    <link>https://7news.aiaaii.com/en/mcp/foundry-browser-automation/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/foundry-browser-automation/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>At Ignite 2026 Microsoft Foundry expands Browser Automation with richer MCP browser tools, Live View, and human take-control for portals and legacy apps without APIs.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Parallel web search fast mode free on Vercel AI Gateway through Jan 31</title>
+    <link>https://7news.aiaaii.com/en/harness/vercel-parallel-web-search-free/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/vercel-parallel-web-search-free/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: Parallel fast web search free on AI Gateway through 31 Jan 2027 with ZDR default; eve’s web_search uses Parallel fast when models run via Gateway.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Meta’s AI agents push ads-ranking techniques across a model fleet</title>
+    <link>https://7news.aiaaii.com/en/harness/meta-ads-ranking-ai-agents/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/meta-ads-ranking-ai-agents/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Meta Engineering explains using AI agents to propagate proven ads-ranking techniques across heterogeneous models—cutting the engineering and compute cost of a combinatorial technique×model search space.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>LangSmith Coding Agents beta tracks spend by merged PRs</title>
+    <link>https://7news.aiaaii.com/en/harness/langchain-coding-agents-roi/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/langchain-coding-agents-roi/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>LangChain: LangSmith Cloud public beta links GitHub/GitLab PR/MR outcomes to thread spend for coding agents—Claude Code, Codex, Cursor, Copilot, Deep Agents.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Foundry Hosted Agents: subnet IP sharing lifts planned concurrency</title>
+    <link>https://7news.aiaaii.com/en/harness/foundry-hosted-agents-ignite/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/foundry-hosted-agents-ignite/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>At Ignite 2026, Foundry Agent Service adds production fixes for hosted agents, including subnet IP sharing—planning estimates jump a /24 from ~250 to ~60,000 sessions, with regional quotas still the practical ceiling.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Microsoft Foundry Dev Pack goes GA for one-install agent tooling</title>
+    <link>https://7news.aiaaii.com/en/harness/foundry-dev-pack/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/foundry-dev-pack/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Foundry Blog: Dev Pack GA installs Foundry CLI (azd ai), Foundry Skill, VS Code Toolkit, and Copilot app plugin in one shot—winget, brew, or Linux script.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Airbnb runs coding agents on Bedrock with cost-per-task evals</title>
+    <link>https://7news.aiaaii.com/en/harness/airbnb-bedrock-cost-per-task/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/airbnb-bedrock-cost-per-task/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AWS case study: Airbnb’s AirChat hits Bedrock via an LLM gateway; pre-rollout evals set defaults and reasoning ceilings by score and cost per task, then CloudWatch checks production drift.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Microsoft Decision-1.1 lands on Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/en/harness/vercel-decision-1-1/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/vercel-decision-1-1/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: microsoft/decision-1.1—more accurate, better calibrated, and faster than Decision-1; Boolean/Choice/Score structured answers; same request shape; AI SDK ≥7.0.128.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Microsoft IQ ships as enterprise context for every agent</title>
+    <link>https://7news.aiaaii.com/en/harness/microsoft-iq/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/microsoft-iq/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Azure Blog: Microsoft IQ unifies Work, Fabric, Foundry, and Web IQ plus 350+ connectors; business plugins reuse context across Copilot, Foundry MCP, and ChatGPT/Claude; Web IQ broadly available from ~$1 per 1k calls.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>LangChain on proactive agents — memory and review UX</title>
+    <link>https://7news.aiaaii.com/en/harness/langchain-proactive-agents/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/langchain-proactive-agents/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>LangChain: proactive agents wake on events and schedules toward goals; over 70% of internal GTM Agent and Robin runs come from schedules; memory (seed/feedback/outcomes) plus high-signal review UX are the scarce resources.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>LangSmith Enterprise adds layered controls for sensitive traces</title>
+    <link>https://7news.aiaaii.com/en/harness/langchain-langsmith-trace-controls/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/langchain-langsmith-trace-controls/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>LangChain: LangSmith Enterprise can hide trace inputs/outputs, grant access by user group, and apply ABAC from root-run metadata—store full fidelity, show least privilege.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>GitHub’s Agent Host Protocol for cross-device sessions</title>
+    <link>https://7news.aiaaii.com/en/harness/github-agent-host-protocol/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/github-agent-host-protocol/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>GitHub Engineering describes an Agent Host Protocol aimed at continuing agent sessions across devices instead of tying them to one local host.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Continuous improvement lands in Microsoft Foundry at Ignite</title>
+    <link>https://7news.aiaaii.com/en/harness/foundry-continuous-improvement/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/foundry-continuous-improvement/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Azure Blog: Foundry’s Establish→Identify→Optimize→Validate loop for agents— Insights GA, annotated traces, Agent Optimizer, skill/cost optimization preview, and Managed/Programmed Training.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>LangChain: shifting agents from tasks to goals</title>
+    <link>https://7news.aiaaii.com/en/harness/langchain-tasks-to-goals/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/langchain-tasks-to-goals/</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>LangChain argues agent UX is moving from user-specified tasks to user-specified goals, with agents decomposing, executing, and revising task lists iteratively.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>LangChain rebuilt LangSmith around the agent record</title>
+    <link>https://7news.aiaaii.com/en/harness/langchain-langsmith-agent-platform/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/langchain-langsmith-agent-platform/</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>LangChain blog: after Series C, LangSmith Agent Platform centers one agent object—owner, immutable ID, type—with environments and traces under it; governance for any OTLP runtime.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>LangChain on Goal Engineering: scope agents for better feedback</title>
+    <link>https://7news.aiaaii.com/en/harness/langchain-goal-engineering/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/langchain-goal-engineering/</guid>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Harrison Chase et al.: design long-horizon agent goals so humans can give high-quality feedback easily; Actively AI moved from per-account agents to cross-account motions on Deep Agents.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Parallel Decisions Fast is free on Vercel AI Gateway through Nov 23</title>
+    <link>https://7news.aiaaii.com/en/harness/vercel-parallel-decisions-free/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/vercel-parallel-decisions-free/</guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: parallel/parallel-decisions-fast searches the live web for typed questions with probabilities and citations—free through 2026-11-23, no Parallel account needed.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>LangChain raises $300M Series C at a $3B valuation</title>
+    <link>https://7news.aiaaii.com/en/harness/langchain-series-c/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/langchain-series-c/</guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    <description>LangChain announced a $300M Series C at a $3B valuation, centering LangSmith as the platform to run, improve, and govern agents—citing 7,000+ organizations.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>GitHub: build agent skills once, run them on any client</title>
+    <link>https://7news.aiaaii.com/en/mcp/github-agent-skills-guide/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/github-agent-skills-guide/</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    <description>GitHub Blog’s practical guide to Agent Skills: versioned SKILL.md folders, Proof Agent verification, and Data Forge pipelines—tools and credentials stay with the host.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Workflow SDK 5: encryption, every-region runs, agent-grade speed</title>
+    <link>https://7news.aiaaii.com/en/harness/vercel-workflow-sdk-5/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/vercel-workflow-sdk-5/</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel’s Workflow SDK 5 encrypts event-log payloads with AES-256-GCM, keeps runs in the starting Function region, and cuts queue hops—latency gains about 1.6×–25× vs v4 in their benches.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>MCP moves to two spec releases a year—last Tuesdays in March and September</title>
+    <link>https://7news.aiaaii.com/en/mcp/mcp-release-cycle/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/mcp-release-cycle/</guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    <description>MCP maintainers lock a six-month release cadence and a Release Manager role. Next target is 2027-03-30; unfinished proposals slip instead of delaying the train.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Gemini Decision 1 lands on Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/en/harness/vercel-gemini-decision-1/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/vercel-gemini-decision-1/</guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: multimodal google/gemini-decision-1 returns Boolean probabilities, choices, and scores for routing and policy checks—no generation tokens.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>SenseTime at Japan’s NexTech Week with embodied AI demos</title>
+    <link>https://7news.aiaaii.com/en/harness/sensetime-nextech-week-embodied-ai/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/sensetime-nextech-week-embodied-ai/</guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    <description>SenseTime and partners exhibited at NexTech Week TOKYO 2026 Autumn, showing SenseMart Go, Xiaotu, Kaiwu 3.1, ACE Ego Kit, and TX01 dual-arm robots.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>AWS shows Spring AI agents on Amazon Bedrock AgentCore</title>
+    <link>https://7news.aiaaii.com/en/harness/aws-bedrock-spring-ai-agents/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/aws-bedrock-spring-ai-agents/</guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AWS ML Blog walks Java teams through spring-ai-agentcore: familiar Spring patterns on Bedrock, with a travel assistant and multi-agent IDP examples.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>MCP drafts a file uploads and downloads extension</title>
+    <link>https://7news.aiaaii.com/en/mcp/mcp-file-uploads-extension/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/mcp-file-uploads-extension/</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The MCP blog outlines an experimental File Uploads extension so large files can move out-of-band between clients, servers, and storage—aimed to stabilize by year-end.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>How Workday built an enterprise agent platform on LangGraph and LangSmith</title>
+    <link>https://7news.aiaaii.com/en/harness/workday-langgraph-agent-platform/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/workday-langgraph-agent-platform/</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>LangChain case study: Workday’s Agent Platform uses LangGraph for orchestration and LangSmith for tracing and evals, wrapping internal gateways under strict enterprise compliance.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>How LangChain’s GTM Agent ships consistent sales artifacts</title>
+    <link>https://7news.aiaaii.com/en/harness/langchain-gtm-agent-artifacts/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/langchain-gtm-agent-artifacts/</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>LangChain details GTM Agent artifact generation: 1,540 docs in 12 weeks; deals with a sent artifact advanced ~47% vs ~16% matched controls.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Workflow SDK writes over WebSockets on Vercel by default</title>
+    <link>https://7news.aiaaii.com/en/harness/vercel-workflow-websocket-writes/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/vercel-workflow-websocket-writes/</guid>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: Workflow SDK 5.2.0+ sends event and stream writes to Vercel Workflows over a WebSocket instead of one HTTP request per write; new runs pick it up after upgrade.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>LangChain: Eval-Driven Development for improving AI agents</title>
+    <link>https://7news.aiaaii.com/en/harness/langchain-eval-driven-development/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/langchain-eval-driven-development/</guid>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+    <description>LangChain outlines Eval-Driven Development: define success, write evals before changes, compare results, and keep evals running through release and production.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Vercel AI Gateway adds DeepSeek Search and Fetch tools</title>
+    <link>https://7news.aiaaii.com/en/mcp/vercel-deepseek-search-fetch/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/vercel-deepseek-search-fetch/</guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: DeepSeek Search and Fetch are available via AI Gateway with one API key for any tool-calling model—no separate DeepSeek account required.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>AWS practice: a serverless MCP gateway to the data lake on ECS Fargate</title>
+    <link>https://7news.aiaaii.com/en/mcp/aws-ecs-fargate-mcp-datalake/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/aws-ecs-fargate-mcp-datalake/</guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+    <description>An AWS team describes a metadata-driven MCP server on ECS Fargate so agents reach an enterprise data lake through one gateway—new datasets need only a JSON metadata file.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Chat SDK agents can stream generative UI with json-render</title>
+    <link>https://7news.aiaaii.com/en/harness/vercel-json-render-chat-sdk/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/vercel-json-render-chat-sdk/</guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: Chat SDK agents write a typed JSON catalog that json-render turns into platform-native cards such as Slack Block Kit and Teams Adaptive Cards.</description>
+    <category>agent</category>
+  </item>
+</channel>
+</rss>

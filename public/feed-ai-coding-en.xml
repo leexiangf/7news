@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>7News · AI coding</title>
+  <link>https://7news.aiaaii.com/feed-ai-coding-en.xml</link>
+  <description>AI coding channel: original summaries from official sources</description>
+  <language>en</language>
+  <lastBuildDate>Fri, 20 Nov 2026 00:00:00 GMT</lastBuildDate>
+  <atom:link href="https://7news.aiaaii.com/feed-ai-coding-en.xml" rel="self" type="application/rss+xml"/>
+    <item>
+    <title>Codex 0.171: TUI workspace on by default; GPT-6.2 Sol / Astra in the catalog</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/openai-codex-0-171/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/openai-codex-0-171/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Codex rust-v0.171.0 defaults TUI workspace; adds GPT-6.2 Sol (default) and Astra; exec --remote, /rc, configurable undo/redo; toolchain Rust 1.99.1.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Claude Code 2.1.330 — Enterprise Console sign-in and easel charts</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/claude-code-2-1-330/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/claude-code-2-1-330/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Anthropic: Claude Code v2.1.330 adds Enterprise Admin Console org sign-in and the built-in easel charting mod, plus fixes for post-compact freezes, WebFetch stalls, and more.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>AWS how-to: use Kimi Code CLI with models on Amazon Bedrock</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/kimi-code-cli-bedrock/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/kimi-code-cli-bedrock/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AWS how-to wiring Kimi Code CLI to Bedrock model endpoints—auth, model IDs, CLI config, invoke path; not a new model launch.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Claude Code 2.1.329: stronger /tasks, hook trust prompts, and stability fixes</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/claude-code-2-1-329/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/claude-code-2-1-329/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Claude Code v2.1.329: hook trust prompts, /tasks with timers and /loop, /mcp remote reject reasons; fixes Keychain logout loops, Code Mode memory, and /code-review—same-day 2.1.328 also ships.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>GitHub Copilot team plugin defaults go generally available</title>
+    <link>https://7news.aiaaii.com/en/ide/github-copilot-team-customizations/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/ide/github-copilot-team-customizations/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>GitHub Changelog: org teams can set approved Agent Plugins as team defaults for VS Code, the Copilot app, and Copilot CLI; enterprise/org policy still wins; Copilot Business/Enterprise.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Copilot connectors add Supabase, Box, Calendly, and more</title>
+    <link>https://7news.aiaaii.com/en/ide/github-copilot-connectors/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/ide/github-copilot-connectors/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>GitHub’s changelog lets Copilot connect Supabase, Box, Calendly, and more in public preview—Business/Enterprise need the Editor preview policy (and MCP allowlist updates when applicable).</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Gemini 4 Neon lands in GitHub Copilot for Pro+ and up</title>
+    <link>https://7news.aiaaii.com/en/ide/gemini-4-neon-github-copilot/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/ide/gemini-4-neon-github-copilot/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>GitHub’s 18 Nov 2026 changelog makes Gemini 4 Neon generally available in Copilot for agentic coding and multistep tool use—selectable for Pro+, Max, Business, and Enterprise on provider list pricing with a gradual rollout.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Inside the Codex sandbox — OS limits on host commands</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/openai-inside-codex-sandbox/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/openai-inside-codex-sandbox/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>OpenAI explains how the Codex sandbox uses OS facilities to constrain host commands: :workspace writes, broad reads, network off by default, tuned via permission profiles.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>OpenAI Codex 0.170.0 adds TUI realtime voice and MCP/sandbox fixes</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/openai-codex-v0-170-0/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/openai-codex-v0-170-0/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Codex rust-v0.170.0: WebRTC negotiation for TUI realtime voice, refreshable OTLP HTTP auth headers, experimental same-named MCP across environments; plus Windows sandbox, Cloud reconnect, and MCP OAuth race fixes.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>GitHub: maintainers need fixes, not more AI bug reports</title>
+    <link>https://7news.aiaaii.com/en/ide/github-maintainers-need-fixes/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/ide/github-maintainers-need-fixes/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>GitHub’s open-source blog argues that in the AI era maintainers need actionable fixes more than floods of auto-generated bug reports.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Claude Code v2.1.327 adds /status diagnostics and MCP/session fixes</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/claude-code-v2-1-327/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/claude-code-v2-1-327/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Claude Code v2.1.327: confirm before /install-github-app, mcp add-json from stdin, richer /status for broken configs; fixes project .mcp.json key wipes, Remote Control worktree cleanup, /export overwrite, and resume/hook issues.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Claude Code v2.1.326 pairs Code Mode with Agent Teams, plus wide fixes</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/claude-code-v2-1-326/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/claude-code-v2-1-326/</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Claude Code v2.1.326 lets you enable Code Mode with Agent Teams on; adds startup/--tools warnings and /status feature-off notes; fixes Bash summaries, background gateway loss, MCP races, login, rewind, and more.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Huawei Cloud CodeArts earns CAICT 4+ for enterprise coding agents</title>
+    <link>https://7news.aiaaii.com/en/ide/huawei-codearts-caict-4plus/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/ide/huawei-codearts-caict-4plus/</guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Huawei Cloud says CodeArts passed CAICT’s Trusted AI enterprise development agent assessment at the top 4+ grade, spanning requirements through engineeringization.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Claude Code v2.1.325: zstd decode security fix and permission hardening</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/claude-code-v2-1-325/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/claude-code-v2-1-325/</guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Claude Code v2.1.325 fixes a security issue in zstd-compressed response decoding, plus many Bash/sandbox permission, MCP, Code Mode, and gateway compaction stability patches.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Claude Code v2.1.323: experimental Code Mode and plugin engine pins</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/claude-code-v2-1-323/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/claude-code-v2-1-323/</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Claude Code v2.1.323 adds opt-in Code Mode (JS tool calls), engines[&quot;claude-code&quot;] version gates in plugin.json, stronger plugin validate, hook heartbeats, and assorted stability fixes.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>AWS guides enterprise pilots of OpenAI Codex on Amazon Bedrock</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/aws-codex-on-bedrock/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/aws-codex-on-bedrock/</guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AWS blog: Codex can call Bedrock-hosted OpenAI models; choose Native AWS Access, AgentCore Gateway, or an LLM Gateway, with an open Guidance repo.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Gemini 4 Carbon is generally available in GitHub Copilot</title>
+    <link>https://7news.aiaaii.com/en/ide/github-copilot-gemini-4-carbon/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/ide/github-copilot-gemini-4-carbon/</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>GitHub Changelog: Gemini 4 Carbon lands in Copilot’s model picker for Pro+ through Enterprise, billed at provider list pricing under usage-based billing.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Enterprise GitHub Apps can manage Copilot seats via API</title>
+    <link>https://7news.aiaaii.com/en/ide/github-copilot-enterprise-seat-apps/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/ide/github-copilot-enterprise-seat-apps/</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>GitHub Changelog: Enterprise Apps can call enterprise Copilot seat management APIs with the new Enterprise Copilot license management permission.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Claude Code v2.1.322 adds Vertex fast mode in global, us, and eu</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/claude-code-v2-1-322/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/claude-code-v2-1-322/</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Claude Code v2.1.322 enables fast mode on Vertex in the global, us, and eu regions, falling back to standard speed if Vertex refuses it.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Claude Code v2.1.321: reliability fixes for git, remotes, and subagents</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/claude-code-v2-1-321/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/claude-code-v2-1-321/</guid>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Anthropic’s Claude Code v2.1.321 improves git/PR reliability, remote reconnect, auto-update retries, and subagent behavior, plus IDE extension install policy changes.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Copilot impact dashboard adds Chat and VS Code Agents usage</title>
+    <link>https://7news.aiaaii.com/en/ide/github-copilot-impact-chat-vscode/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/ide/github-copilot-impact-chat-vscode/</guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+    <description>GitHub Changelog: the Agent adoption chart now includes Copilot Chat and the VS Code Agents window; “Passive users” are renamed Chat-first users.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Copilot code review gains API settings management and a tighter overview</title>
+    <link>https://7news.aiaaii.com/en/ide/github-copilot-code-review-api/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/ide/github-copilot-code-review-api/</guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+    <description>GitHub Changelog: manage code review settings via REST/GraphQL from enterprise to repo, with a more compact overview comment plus attribution and reliability fixes.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Cursor adds realtime voice chat with agents</title>
+    <link>https://7news.aiaaii.com/en/ide/cursor-voice-chat/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/ide/cursor-voice-chat/</guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Cursor’s changelog enables realtime voice calls with agents in the Agents Window, IDE, web, and iOS—including Siri handoff on iOS.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Build and share live apps inside Cursor</title>
+    <link>https://7news.aiaaii.com/en/ide/cursor-build-live-apps/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/ide/cursor-build-live-apps/</guid>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Cursor’s changelog lets you build live apps in-product—cloud agents handle build, database, auth, and deploy, then share via a link.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Foundry Local runs Qwen3.8-27B on-device for Copilot coding</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/foundry-local-qwen38/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/foundry-local-qwen38/</guid>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Microsoft Foundry shows Foundry Local serving Qwen3.8-27B on developer hardware, ONNX Runtime–optimized and wired to GitHub Copilot for private, offline, predictable local coding.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>GitHub Copilot lands in Xcode’s built-in coding assistant (public preview)</title>
+    <link>https://7news.aiaaii.com/en/ide/github-copilot-xcode-coding-assistant/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/ide/github-copilot-xcode-coding-assistant/</guid>
+    <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    <description>GitHub Changelog: Copilot works inside Xcode’s coding assistant starting with Xcode 27.3 beta; the existing Copilot for Xcode extension remains available.</description>
+    <category>ai-coding</category>
+  </item>
+</channel>
+</rss>

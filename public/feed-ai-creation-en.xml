@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>7News · AI creation</title>
+  <link>https://7news.aiaaii.com/feed-ai-creation-en.xml</link>
+  <description>AI creation channel: original summaries from official sources</description>
+  <language>en</language>
+  <lastBuildDate>Thu, 19 Nov 2026 00:00:00 GMT</lastBuildDate>
+  <atom:link href="https://7news.aiaaii.com/feed-ai-creation-en.xml" rel="self" type="application/rss+xml"/>
+    <item>
+    <title>PolyAI Dialog-RSN-1 on SageMaker JumpStart for private realtime dialog</title>
+    <link>https://7news.aiaaii.com/en/gen-av/polyai-dialog-rsn-1-sagemaker-jumpstart/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/gen-av/polyai-dialog-rsn-1-sagemaker-jumpstart/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Dialog-RSN-1 on Marketplace and JumpStart: deploy a realtime voice endpoint in your VPC; OpenAI Realtime compatible; 16-bit PCM mono 16/24 kHz; ~30-minute connections; English only for now.</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>Genie 4 is live for Ultra: real-time world edits, audio, and a gallery</title>
+    <link>https://7news.aiaaii.com/en/gen-av/genie-4-available/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/gen-av/genie-4-available/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Google DeepMind updates Project Genie with Genie 4 for eligible Google AI Ultra subscribers—natural-language live edits, adaptive audio, a creative agent, and a community gallery; Pro users can join the waitlist.</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>Microsoft MAI-Image-2.7 and Flash hit Vercel AI Gateway preview</title>
+    <link>https://7news.aiaaii.com/en/gen-image/vercel-mai-image-2-7/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/gen-image/vercel-mai-image-2-7/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: microsoft/mai-image-2.7 and mai-image-2.7-flash in public preview on AI Gateway—up to 2048×2048, transparent backgrounds, up to five reference images; no Microsoft account required.</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>Nanjing Museum × SenseTime — VR walk-in Kunyu Wanguo Quantu</title>
+    <link>https://7news.aiaaii.com/en/gen-av/sensetime-nanjing-museum-kunyu-vr/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/gen-av/sensetime-nanjing-museum-kunyu-vr/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>SenseTime news: Nanjing Museum–led, SenseTime-built AI+VR immersion of the Kunyu world map at China’s museum expo; full experience cited at 280k+ visits since Jul 2025.</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>ByteDance Seedance 2.5 Flash lands on Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/en/gen-av/vercel-seedance-2-5-flash/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/gen-av/vercel-seedance-2-5-flash/</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: bytedance/seedance-2.5-flash—faster, cheaper Seedance 2.5; text or image/video/audio refs to synced A/V clips, 4–30s up to 720p@24fps; AI SDK 7.</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>SenseTime Seko backs Golden Rooster–honored AI short Invincible Superman</title>
+    <link>https://7news.aiaaii.com/en/gen-av/sensetime-seko-golden-rooster/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/gen-av/sensetime-seko-golden-rooster/</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>SenseTime says its Seko AI video platform supplied tools and compute for Invincible Superman, which won the 39th Golden Rooster Future Imaging AI Unit’s annual technology application award.</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>MiniMax H3 Image and Highspeed land on Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/en/gen-image/vercel-minimax-h3-gateway/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/gen-image/vercel-minimax-h3-gateway/</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: minimax/minimax-h3-image and the highspeed variant support text-to-image and edits via AI Gateway—custom sizes through 2K/4K, no separate MiniMax account.</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>ByteDance Seedream 5.5: 100-round edits and native RGBA</title>
+    <link>https://7news.aiaaii.com/en/gen-image/seedream-5-5/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/gen-image/seedream-5-5/</guid>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Seed ships Seedream 5.5 with pixel-stable multi-round editing (up to ~100 rounds), native RGBA transparency, and sharper text/texture—rolling out on Jimeng, Doubao, and Volcano Ark.</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>SenseTime Raccoon cases show SenseNova U1 Pro multi-turn image workflows</title>
+    <link>https://7news.aiaaii.com/en/gen-image/sensetime-raccoon-u1-pro-cases/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/gen-image/sensetime-raccoon-u1-pro-cases/</guid>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A SenseTime news feature uses two user stories to show how Raccoon, backed by SenseNova U1 Pro, handles layered Chinese-style art prompts and business diagrams with multi-turn edits.</description>
+    <category>ai-creation</category>
+  </item>
+</channel>
+</rss>

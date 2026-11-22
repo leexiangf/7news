@@ -1,0 +1,77 @@
+{
+  "topics": [
+    {
+      "id": "llm",
+      "label": "大模型",
+      "labelEn": "Models",
+      "accent": "#1f6feb",
+      "description": "模型发布、评测与价格额度，帮你判断该不该换底座。",
+      "descriptionEn": "Model releases, evals, and pricing—when to switch bases.",
+      "subcategories": [
+        { "id": "release", "label": "发布与更新", "labelEn": "Releases" },
+        { "id": "eval", "label": "评测与对比", "labelEn": "Evals" },
+        { "id": "pricing", "label": "价格与额度", "labelEn": "Pricing" }
+      ]
+    },
+    {
+      "id": "ai-coding",
+      "label": "AI 编程",
+      "labelEn": "AI coding",
+      "accent": "#0d9488",
+      "description": "IDE、CLI 与代码智能体的版本与能力变化，方便对照自己在用的工具。",
+      "descriptionEn": "IDE, CLI, and coding-agent updates—match them to your stack.",
+      "subcategories": [
+        { "id": "ide", "label": "IDE 与插件", "labelEn": "IDE & plugins" },
+        { "id": "cli-agent", "label": "CLI 与代码智能体", "labelEn": "CLI & agents" }
+      ]
+    },
+    {
+      "id": "agent",
+      "label": "智能体",
+      "labelEn": "Agents",
+      "accent": "#7c3aed",
+      "description": "Agent 架构、工具调用与落地踩坑，面向真正要上线的团队。",
+      "descriptionEn": "Agent architecture, tools, and production pitfalls.",
+      "subcategories": [
+        { "id": "mcp", "label": "MCP 与工具", "labelEn": "MCP & tools" },
+        { "id": "harness", "label": "Harness 与编排", "labelEn": "Harness" }
+      ]
+    },
+    {
+      "id": "ai-office",
+      "label": "AI 办公",
+      "labelEn": "AI at work",
+      "accent": "#15803d",
+      "description": "文档、协作与工作流里的 AI 实践，偏可复用的操作路径。",
+      "descriptionEn": "Docs, collaboration, and reusable AI workflows.",
+      "subcategories": [
+        { "id": "doc", "label": "文档与写作", "labelEn": "Docs & writing" },
+        { "id": "workflow", "label": "工作流", "labelEn": "Workflows" }
+      ]
+    },
+    {
+      "id": "ai-creation",
+      "label": "AI 创作",
+      "labelEn": "AI creation",
+      "accent": "#db2777",
+      "description": "图像、视频与语音生成工具的版本、能力与商用边界。",
+      "descriptionEn": "Image, video, and audio generation—versions, capabilities, commercial limits.",
+      "subcategories": [
+        { "id": "gen-image", "label": "图像生成", "labelEn": "Image" },
+        { "id": "gen-av", "label": "视频与语音", "labelEn": "Video & audio" }
+      ]
+    },
+    {
+      "id": "eng",
+      "label": "工程实践",
+      "labelEn": "Engineering",
+      "accent": "#c45c26",
+      "description": "推理、成本、观测与工程化：把 Demo 变成可维护系统。",
+      "descriptionEn": "Inference, cost, observability—demos into systems.",
+      "subcategories": [
+        { "id": "infra", "label": "推理与基建", "labelEn": "Infra" },
+        { "id": "cost", "label": "成本与效能", "labelEn": "Cost" }
+      ]
+    }
+  ]
+}

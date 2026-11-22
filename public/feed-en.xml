@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>7News · English</title>
+  <link>https://7news.aiaaii.com/feed-en.xml</link>
+  <description>AI news: original summaries and analysis from official sources (English)</description>
+  <language>en</language>
+  <lastBuildDate>Sat, 21 Nov 2026 00:00:00 GMT</lastBuildDate>
+  <atom:link href="https://7news.aiaaii.com/feed-en.xml" rel="self" type="application/rss+xml"/>
+    <item>
+    <title>Ollama 0.40.17 adds Inkling 2 Mini and Apple Silicon concurrency</title>
+    <link>https://7news.aiaaii.com/en/infra/ollama-0-40-17/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/infra/ollama-0-40-17/</guid>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Ollama v0.40.17 ships Thinking Machines’ Inkling 2 Mini (~26B/5.4B active) and concurrent multi-request serving on Apple silicon; Inkling is Apple-only in this release.</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>SenseTime at APEC Leaders’ Week: diplomacy and city venues show AI apps</title>
+    <link>https://7news.aiaaii.com/en/release/sensetime-apec-2026/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/sensetime-apec-2026/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>During Shenzhen’s 33rd APEC Economic Leaders’ Informal Meeting week, SenseTime showcased SenseRobot, Raccoon Work, Seko video agent, and a quadruped—event demos, not a model release.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>ByteDance Seed STEM: retrosynthesis challenge opens</title>
+    <link>https://7news.aiaaii.com/en/release/seed-stem-challenge/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/seed-stem-challenge/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Seed STEM molecular retrosynthesis challenge: 10 real problems on Volcano Engine; first prize ¥50k; mainland China only; register by 4 Dec; CRO wet-lab validation.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Anthropic closes IPO; ANT opens on Nasdaq</title>
+    <link>https://7news.aiaaii.com/en/release/anthropic-ipo-close/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/anthropic-ipo-close/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Anthropic closes its IPO with the greenshoe fully exercised; Class A at $83, ~1.127B shares, ~$91.6B to the company; concurrent Class N private placement ~$26B; combined gross ~$119.5B.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>OpenAI Business and Enterprise pricing page snapshot</title>
+    <link>https://7news.aiaaii.com/en/pricing/openai-api-pricing-snapshot/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/pricing/openai-api-pricing-snapshot/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>OpenAI Business / Enterprise pricing navigation: Standard-seat workspace features, API credits, and custom Enterprise—model seat fees separately from API usage; verify live page prices.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>DeepSeek API: deepseek-flash naming and peak/off-peak pricing</title>
+    <link>https://7news.aiaaii.com/en/pricing/deepseek-pricing-snapshot/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/pricing/deepseek-pricing-snapshot/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Call deepseek-flash (V4.1-Flash-1017); legacy names still accepted but billed at Flash rates; off-peak is half of peak; Flash cache-miss input ~$0.3/MTok at peak.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Anthropic Claude plans: Free, Pro, Max, and Ultra</title>
+    <link>https://7news.aiaaii.com/en/pricing/anthropic-pricing-snapshot/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/pricing/anthropic-pricing-snapshot/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Individual Claude plans: Free; Pro ~$17/mo annual ($20 monthly); Max $100; Ultra $200. Max/Ultra include $100/$200 monthly API credits—keep chat plans separate from API platform rates.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>LlamaIndex ParseBench-2: a severity-aware document parsing benchmark</title>
+    <link>https://7news.aiaaii.com/en/eval/llamaindex-parsebench-2/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/eval/llamaindex-parsebench-2/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>ParseBench-2 calibrates deterministic metrics to 330+ severity-labeled error types; corpus ~2.1k→4.3k; six dimensions including forms; LlamaParse Agentic Plus ~89.8 overall (vendor board).</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Kimi WorldVQA: 3,500 questions on whether MLLMs recognize the entity</title>
+    <link>https://7news.aiaaii.com/en/eval/kimi-worldvqa/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/eval/kimi-worldvqa/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>WorldVQA: ~3,500 image-QA pairs across 9 categories with head/tail splits; measures MLLM factual correctness; frontier models often under 50% on the tail; reports ECE/Slope calibration.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>HyperPod Global Inference Gateway — one endpoint across clusters</title>
+    <link>https://7news.aiaaii.com/en/infra/sagemaker-hyperpod-global-inference-gateway/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/infra/sagemaker-hyperpod-global-inference-gateway/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AWS: SageMaker HyperPod adds a Global Inference Gateway—one SigV4 endpoint across registered clusters and Regions, scoring KV headroom, queue, proximity, and errors with automatic failover.</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>HyperPod Slurm adds managed extensions for observability and users</title>
+    <link>https://7news.aiaaii.com/en/infra/sagemaker-hyperpod-cluster-extensions/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/infra/sagemaker-hyperpod-cluster-extensions/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AWS: SageMaker HyperPod Slurm cluster extensions let you declare observability and user-management packages via API/console—validated, kept consistent across scale and replacement.</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>llama.cpp b12563 fixes CUDA expert-fallback precision; b12564 tunes Orin MMVQ</title>
+    <link>https://7news.aiaaii.com/en/infra/llama-cpp-b12564-b12563/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/infra/llama-cpp-b12564-b12563/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>llama.cpp tagged b12563 and b12564: the former sets the per-expert dst slice to GGML_OP_MUL_MAT so requested precision is honored; the latter optimizes Orin single-column MMVQ. Path bounds and how to re-check.</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>Foundry Managed Compute goes GA for open-model serving</title>
+    <link>https://7news.aiaaii.com/en/infra/foundry-managed-compute-ga/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/infra/foundry-managed-compute-ga/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Microsoft: Foundry Managed Compute is generally available—150+ open models on dedicated GPUs (NVIDIA A100/H100/H200 or AMD MI300X), plus LoRA and BYO-weights previews.</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>AWS ships a distributed KV caching skill for self-hosted LLMs</title>
+    <link>https://7news.aiaaii.com/en/cost/aws-distributed-kv-caching-agent-skill/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cost/aws-distributed-kv-caching-agent-skill/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AWS: an Agent Toolkit skill guides coding agents to evaluate and set up ElastiCache-backed distributed KV caching—claiming up to ~40% cost and ~80% TTFT cuts in vendor benchmarks.</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>LlamaIndex on KYC automation: document agents instead of manual review at scale</title>
+    <link>https://7news.aiaaii.com/en/workflow/llamaindex-kyc-automation/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/workflow/llamaindex-kyc-automation/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>LlamaIndex KYC use-case post: five stages from intake to ongoing monitoring; document parsing as the underestimated bottleneck; not legal advice.</description>
+    <category>ai-office</category>
+  </item>
+  <item>
+    <title>Codex 0.171: TUI workspace on by default; GPT-6.2 Sol / Astra in the catalog</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/openai-codex-0-171/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/openai-codex-0-171/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Codex rust-v0.171.0 defaults TUI workspace; adds GPT-6.2 Sol (default) and Astra; exec --remote, /rc, configurable undo/redo; toolchain Rust 1.99.1.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Claude Code 2.1.330 — Enterprise Console sign-in and easel charts</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/claude-code-2-1-330/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/claude-code-2-1-330/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Anthropic: Claude Code v2.1.330 adds Enterprise Admin Console org sign-in and the built-in easel charting mod, plus fixes for post-compact freezes, WebFetch stalls, and more.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Tencent Cloud MCP Square open-content reprints need authorization</title>
+    <link>https://7news.aiaaii.com/en/mcp/tencent-mcp-square-copyright/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/tencent-mcp-square-copyright/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Tencent Cloud developer community copyright notice for MCP Square: posts are author-authorized; no reprint without permission—policy note, not a feature launch.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Kimi Agent Swarm: up to ~100 parallel sub-agents, top-tier research preview</title>
+    <link>https://7news.aiaaii.com/en/harness/kimi-agent-swarm/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/kimi-agent-swarm/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Agent Swarm replaces long-horizon single-agent serial work with self-organized division of labor; with K2.5, up to ~100 sub-agents and 1,500+ tool calls, ~4.5× faster than serial—top-tier research preview.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Liquid AI d1.2 / d1.2-ultra land on Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/en/release/vercel-liquid-d1-2/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/vercel-liquid-d1-2/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel: Liquid AI d1.2 / d1.2-ultra decision models on AI Gateway; Boolean / Choice / Score / Box; audio and image inputs; model IDs liquid/d1.2(-ultra).</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>GPT-Live 1.1 full-duplex speech lands on Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/en/release/vercel-gpt-live-1-1/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/vercel-gpt-live-1-1/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel: openai/gpt-live-1.1 via AI Gateway; full-duplex and interruptible; stronger transcription and cross-language timbre; same Live endpoint—usually just swap the model ID.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>Google Dialogues: Walter Isaacson on curiosity and creativity in the AI era</title>
+    <link>https://7news.aiaaii.com/en/release/google-dialogues-walter-isaacson/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/google-dialogues-walter-isaacson/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A Dialogues podcast episode: Kent Walker with Walter Isaacson on collaboration behind historical breakthroughs and why judgment matters when information is always in your pocket—opinion talk, not a product launch.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>SageMaker default endpoint checks: latency drift, idle GPUs, missed optimizations</title>
+    <link>https://7news.aiaaii.com/en/infra/sagemaker-latency-drift-idle-gpu-recommendations/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/infra/sagemaker-latency-drift-idle-gpu-recommendations/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>SageMaker AI monitors vLLM+GPU endpoints by default for week-over-week latency/TTFT, idle GPUs, and gaps like speculative decoding off; AWS Health notifies, side-path benches, humans decide production changes.</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>AWS reviews 2026 SageMaker Inference launches (part 2)</title>
+    <link>https://7news.aiaaii.com/en/infra/sagemaker-inference-2026-review/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/infra/sagemaker-inference-2026-review/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AWS “SageMaker Inference 2026 launches in review, part 2” indexes year’s inference ships—not a single new API; details live in linked announcements.</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>SageMaker cross-region inference routing keeps serving through capacity shortfalls</title>
+    <link>https://7news.aiaaii.com/en/infra/sagemaker-cross-region-inference-routing/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/infra/sagemaker-cross-region-inference-routing/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>SageMaker AI inference router registers existing multi-region/account endpoints as destinations; prefer local when healthy, shift new requests elsewhere on shortfalls—no capacity creation.</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>NVIDIA DAQIRI: high-bandwidth instrument data straight into the GPU</title>
+    <link>https://7news.aiaaii.com/en/infra/nvidia-daqiri-scientific-instruments/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/infra/nvidia-daqiri-scientific-instruments/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Holoscan acquisition library DAQIRI: Berkeley Molecular Foundry HDR EM camera &gt;500 Gbps into GPU; adds hardware packet reorder, ~2× ibverbs throughput, and ~2–4 µs direct-polling latency.</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>NVIDIA on the AI infra supply chain: how manufacturing partners keep the cadence</title>
+    <link>https://7news.aiaaii.com/en/infra/nvidia-ai-infra-supply-chain/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/infra/nvidia-ai-infra-supply-chain/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Ops chief Deb Shoquist on partners from TSMC (since 1998) to Foxconn and Wistron; Amphenol cable cartridges ~1,500 legs at under 1 DPPM; chip-out to system-out as short as ~two weeks when demand requires.</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>Lambda wires 10K+ GB300 GPUs with NVIDIA Photonics CPO switches</title>
+    <link>https://7news.aiaaii.com/en/infra/lambda-nvidia-photonics/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/infra/lambda-nvidia-photonics/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Lambda connects GB300 NVL72 racks with NVIDIA Photonics CPO; tests cite ~4% rack and up to ~10% pod latency cuts; up to ~5× power efficiency and ~15× reliability vs pluggables (vendor).</description>
+    <category>eng</category>
+  </item>
+  <item>
+    <title>SenseTime launches Raccoon Finance across five lending-to-research scenarios</title>
+    <link>https://7news.aiaaii.com/en/workflow/sensetime-raccoon-finance/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/workflow/sensetime-raccoon-finance/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Raccoon Finance covers credit risk, claims, compliance, ops analytics, and research; release cites Ping An due diligence ~30 minutes and statement analysis ~4h→15m—partner/vendor figures.</description>
+    <category>ai-office</category>
+  </item>
+  <item>
+    <title>PolyAI Dialog-RSN-1 on SageMaker JumpStart for private realtime dialog</title>
+    <link>https://7news.aiaaii.com/en/gen-av/polyai-dialog-rsn-1-sagemaker-jumpstart/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/gen-av/polyai-dialog-rsn-1-sagemaker-jumpstart/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Dialog-RSN-1 on Marketplace and JumpStart: deploy a realtime voice endpoint in your VPC; OpenAI Realtime compatible; 16-bit PCM mono 16/24 kHz; ~30-minute connections; English only for now.</description>
+    <category>ai-creation</category>
+  </item>
+  <item>
+    <title>AWS how-to: use Kimi Code CLI with models on Amazon Bedrock</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/kimi-code-cli-bedrock/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/kimi-code-cli-bedrock/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AWS how-to wiring Kimi Code CLI to Bedrock model endpoints—auth, model IDs, CLI config, invoke path; not a new model launch.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>Claude Code 2.1.329: stronger /tasks, hook trust prompts, and stability fixes</title>
+    <link>https://7news.aiaaii.com/en/cli-agent/claude-code-2-1-329/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/cli-agent/claude-code-2-1-329/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Claude Code v2.1.329: hook trust prompts, /tasks with timers and /loop, /mcp remote reject reasons; fixes Keychain logout loops, Code Mode memory, and /code-review—same-day 2.1.328 also ships.</description>
+    <category>ai-coding</category>
+  </item>
+  <item>
+    <title>NVIDIA: build Rust tool-calling parsers for new models with AI agents</title>
+    <link>https://7news.aiaaii.com/en/mcp/nvidia-rust-tool-calling-parsers/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/nvidia-rust-tool-calling-parsers/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>frontend-crates: reusable Rust tool-call parsers shared with Dynamo; agents generate parsers + tests; handle truncation, malformed calls, and markup leaks.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>LangSmith Tool Gateway public preview: unified tool identity and policy</title>
+    <link>https://7news.aiaaii.com/en/mcp/langsmith-tool-gateway/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/langsmith-tool-gateway/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>LangSmith Tool Gateway preview: one kit URL for MCP/built-in tool credentials, identity, deny/approval, and tracing—alongside LLM Gateway; works with Claude Code / Cursor MCP clients.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Skyflow interceptor on AgentCore Gateway de-identifies tool calls</title>
+    <link>https://7news.aiaaii.com/en/mcp/aws-skyflow-agentcore-gateway-interceptor/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/aws-skyflow-agentcore-gateway-interceptor/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Skyflow Detect as an AgentCore Gateway request/response interceptor: vault tokenization for tool args, model context, and document links; three Shield modes; fail-closed by default; no agent/tool code changes.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>AgentCore Payments adds Marketplace x402 billed in USD on the AWS invoice</title>
+    <link>https://7news.aiaaii.com/en/mcp/aws-agentcore-marketplace-x402-payments/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/mcp/aws-agentcore-marketplace-x402-payments/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AgentCore Payments adds AWS Billing so agents can discover and buy Marketplace x402 products, charged per use in USD on the developer’s AWS bill—session budgets and Gateway connector; no stablecoin wallet.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>AgentCore Harness upgrade: Strands defaults and lifecycle hooks</title>
+    <link>https://7news.aiaaii.com/en/harness/aws-agentcore-harness-strands-lifecycle-hooks/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/harness/aws-agentcore-harness-strands-lifecycle-hooks/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AgentCore Harness defaults to open-source Strands; built-in tools and context management; lifecycle hooks can allow/deny tool calls; existing harnesses pick up the upgrade automatically.</description>
+    <category>agent</category>
+  </item>
+  <item>
+    <title>Google Gemini 4 Neon lands on Vercel AI Gateway</title>
+    <link>https://7news.aiaaii.com/en/release/vercel-gemini-4-neon/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/vercel-gemini-4-neon/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Vercel Changelog: google/gemini-4-neon for coding and agents—multimodal, 1M context, tools, Search/Maps grounding, reasoning low–xhigh.</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>SenseTime 9M 2026 update: revenue +30.4%, generative AI accelerates</title>
+    <link>https://7news.aiaaii.com/en/release/sensetime-q3-2026-update/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/sensetime-q3-2026-update/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>SenseTime’s nine-month update through 30 Sep 2026 reports revenue up 30.4% to RMB 3.79B and gross margin at 43.4%, plus SenseNova and token/agent commercialization notes (EN+CN posts merged).</description>
+    <category>llm</category>
+  </item>
+  <item>
+    <title>OpenAI’s Performance Factory: Codex agents from alert to baseline check</title>
+    <link>https://7news.aiaaii.com/en/release/openai-performance-factory/</link>
+    <guid isPermaLink="true">https://7news.aiaaii.com/en/release/openai-performance-factory/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>OpenAI describes Performance Factory—configurable workflows where cloud Codex agents investigate performance alerts, propose fixes for human review, then verify recovery against baseline after deploy.</description>
+    <category>llm</category>
+  </item>
+</channel>
+</rss>

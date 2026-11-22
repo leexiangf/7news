@@ -1,0 +1,246 @@
+{
+  "publishers": [
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "nameZh": "OpenAI",
+      "description": "模型、API、Codex 与 ChatGPT 官方发布。",
+      "descriptionEn": "Official updates on models, API, Codex, and ChatGPT.",
+      "website": "https://openai.com/",
+      "newsUrl": "https://openai.com/news",
+      "defaultCategory": "llm",
+      "tier": "P0"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "nameZh": "Anthropic",
+      "description": "Claude、API、Claude Code 与安全相关官方动态。",
+      "descriptionEn": "Claude, API, Claude Code, and safety announcements.",
+      "website": "https://www.anthropic.com/",
+      "newsUrl": "https://www.anthropic.com/news",
+      "defaultCategory": "llm",
+      "tier": "P0"
+    },
+    {
+      "id": "google",
+      "name": "Google",
+      "nameZh": "Google",
+      "description": "Gemini、DeepMind 研究与 Google AI 产品更新。",
+      "descriptionEn": "Gemini, DeepMind research, and Google AI product updates.",
+      "website": "https://ai.google/",
+      "newsUrl": "https://blog.google/technology/ai/",
+      "defaultCategory": "llm",
+      "tier": "P0"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "nameZh": "Microsoft",
+      "description": "Azure AI、Foundry、Copilot 与开发者工具更新。",
+      "descriptionEn": "Azure AI, Foundry, Copilot, and developer-tool updates.",
+      "website": "https://www.microsoft.com/",
+      "newsUrl": "https://devblogs.microsoft.com/foundry/",
+      "defaultCategory": "llm",
+      "tier": "P0"
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "nameZh": "Meta",
+      "description": "Llama 与 Meta AI 工程、开源权重相关发布。",
+      "descriptionEn": "Llama and Meta AI engineering and open-weight releases.",
+      "website": "https://ai.meta.com/",
+      "newsUrl": "https://ai.meta.com/blog/",
+      "defaultCategory": "llm",
+      "tier": "P0"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "nameZh": "深度求索",
+      "description": "DeepSeek 模型、API 文档与开源 Release。",
+      "descriptionEn": "DeepSeek models, API docs, and open-source releases.",
+      "website": "https://www.deepseek.com/",
+      "newsUrl": "https://api-docs.deepseek.com/news",
+      "defaultCategory": "llm",
+      "tier": "P0"
+    },
+    {
+      "id": "alibaba-qwen",
+      "name": "Alibaba Qwen",
+      "nameZh": "阿里云通义",
+      "description": "Qwen 系列、百炼与通义开源发布。",
+      "descriptionEn": "Qwen models, Bailian, and open-source releases.",
+      "website": "https://qwenlm.github.io/",
+      "newsUrl": "https://qwenlm.github.io/blog/",
+      "defaultCategory": "llm",
+      "tier": "P0"
+    },
+    {
+      "id": "moonshot",
+      "name": "Moonshot",
+      "nameZh": "月之暗面",
+      "description": "Kimi 模型与产品官方博客、文档更新。",
+      "descriptionEn": "Kimi model and product posts from Moonshot.",
+      "website": "https://www.moonshot.cn/",
+      "newsUrl": "https://www.kimi.com/en/blog/",
+      "defaultCategory": "llm",
+      "tier": "P0"
+    },
+    {
+      "id": "zhipu",
+      "name": "Zhipu AI",
+      "nameZh": "智谱",
+      "description": "GLM 系列与智谱开放平台相关动态。",
+      "descriptionEn": "GLM models and Zhipu platform updates.",
+      "website": "https://www.zhipuai.cn/",
+      "newsUrl": "https://open.bigmodel.cn/",
+      "defaultCategory": "llm",
+      "tier": "P0"
+    },
+    {
+      "id": "bytedance",
+      "name": "ByteDance",
+      "nameZh": "字节跳动",
+      "description": "豆包 / Seed、火山方舟与相关多模态产品线。",
+      "descriptionEn": "Doubao / Seed, Volcengine Ark, and multimodal lines.",
+      "website": "https://seed.bytedance.com/",
+      "newsUrl": "https://seed.bytedance.com/zh/",
+      "defaultCategory": "llm",
+      "tier": "P0"
+    },
+    {
+      "id": "tencent",
+      "name": "Tencent",
+      "nameZh": "腾讯",
+      "description": "混元模型、云文档与腾讯 AI 产品更新。",
+      "descriptionEn": "Hunyuan models and Tencent AI product updates.",
+      "website": "https://hunyuan.tencent.com/",
+      "newsUrl": "https://hunyuan.tencent.com/",
+      "defaultCategory": "llm",
+      "tier": "P0"
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "nameZh": "Cursor",
+      "description": "Cursor IDE 与 Agent 能力的官方 changelog。",
+      "descriptionEn": "Official Cursor IDE and agent changelogs.",
+      "website": "https://cursor.com/",
+      "newsUrl": "https://cursor.com/changelog",
+      "defaultCategory": "ai-coding",
+      "tier": "P0"
+    },
+    {
+      "id": "mcp",
+      "name": "Model Context Protocol",
+      "nameZh": "MCP",
+      "description": "MCP 规范、博客与生态协议变更。",
+      "descriptionEn": "MCP spec, blog, and protocol ecosystem changes.",
+      "website": "https://modelcontextprotocol.io/",
+      "newsUrl": "https://blog.modelcontextprotocol.io/",
+      "defaultCategory": "agent",
+      "tier": "P0"
+    },
+    {
+      "id": "langchain",
+      "name": "LangChain",
+      "nameZh": "LangChain",
+      "description": "LangChain / LangGraph 与 Agent 编排框架更新。",
+      "descriptionEn": "LangChain / LangGraph and agent orchestration updates.",
+      "website": "https://www.langchain.com/",
+      "newsUrl": "https://www.langchain.com/blog",
+      "defaultCategory": "agent",
+      "tier": "P0"
+    },
+    {
+      "id": "github",
+      "name": "GitHub",
+      "nameZh": "GitHub",
+      "description": "GitHub Copilot、Changelog 与开发者平台 AI 能力。",
+      "descriptionEn": "GitHub Copilot, changelog, and platform AI features.",
+      "website": "https://github.com/",
+      "newsUrl": "https://github.blog/",
+      "defaultCategory": "ai-coding",
+      "tier": "P0"
+    },
+    {
+      "id": "ollama",
+      "name": "Ollama",
+      "nameZh": "Ollama",
+      "description": "本地模型运行时与模型库官方博客、Release。",
+      "descriptionEn": "Local model runtime and library updates.",
+      "website": "https://ollama.com/",
+      "newsUrl": "https://ollama.com/blog",
+      "defaultCategory": "eng",
+      "tier": "P1"
+    },
+    {
+      "id": "vllm",
+      "name": "vLLM",
+      "nameZh": "vLLM",
+      "description": "高吞吐推理引擎博客与 GitHub Release。",
+      "descriptionEn": "High-throughput inference engine blog and releases.",
+      "website": "https://vllm.ai/",
+      "newsUrl": "https://vllm.ai/blog",
+      "defaultCategory": "eng",
+      "tier": "P1"
+    },
+    {
+      "id": "sglang",
+      "name": "SGLang",
+      "nameZh": "SGLang",
+      "description": "SGLang 推理运行时 GitHub Release。",
+      "descriptionEn": "SGLang inference runtime GitHub releases.",
+      "website": "https://github.com/sgl-project/sglang",
+      "newsUrl": "https://github.com/sgl-project/sglang/releases",
+      "defaultCategory": "eng",
+      "tier": "P1"
+    },
+    {
+      "id": "llama-cpp",
+      "name": "llama.cpp",
+      "nameZh": "llama.cpp",
+      "description": "llama.cpp 本地推理核心 Release。",
+      "descriptionEn": "llama.cpp local inference core releases.",
+      "website": "https://github.com/ggml-org/llama.cpp",
+      "newsUrl": "https://github.com/ggml-org/llama.cpp/releases",
+      "defaultCategory": "eng",
+      "tier": "P1"
+    },
+    {
+      "id": "runway",
+      "name": "Runway",
+      "nameZh": "Runway",
+      "description": "文生视频与创作工具官方更新。",
+      "descriptionEn": "Text-to-video and creative tool updates.",
+      "website": "https://runwayml.com/",
+      "newsUrl": "https://runwayml.com/blog",
+      "defaultCategory": "ai-creation",
+      "tier": "P1"
+    },
+    {
+      "id": "black-forest-labs",
+      "name": "Black Forest Labs",
+      "nameZh": "Black Forest Labs",
+      "description": "FLUX 图像模型官方发布。",
+      "descriptionEn": "FLUX image model announcements.",
+      "website": "https://bfl.ai/",
+      "newsUrl": "https://bfl.ai/",
+      "defaultCategory": "ai-creation",
+      "tier": "P1"
+    },
+    {
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "nameZh": "ElevenLabs",
+      "description": "语音合成与音频生成产品更新。",
+      "descriptionEn": "Speech synthesis and audio product updates.",
+      "website": "https://elevenlabs.io/",
+      "newsUrl": "https://elevenlabs.io/blog",
+      "defaultCategory": "ai-creation",
+      "tier": "P1"
+    }
+  ]
+}

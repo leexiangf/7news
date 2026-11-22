@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "id": "agent-from-scratch",
+      "title": "从零搭一个可靠 Agent",
+      "titleEn": "Build a Reliable Agent from Scratch",
+      "description": "按顺序读完，能自己搭出带工具校验的 Agent 最小闭环。",
+      "descriptionEn": "A sequential path to a minimal agent loop with tool validation.",
+      "sequential": true
+    },
+    {
+      "id": "llm-cost-desk",
+      "title": "模型成本台账",
+      "titleEn": "LLM Cost Desk",
+      "description": "按主题查阅：定价、缓存、批处理与评测成本，不必按顺序。时效价目变更见「大模型 / 价格与额度」。",
+      "descriptionEn": "Pricing, caching, batching, and eval cost notes—browse in any order. Timely list-price moves live under Models / Pricing.",
+      "sequential": false
+    }
+  ]
+}

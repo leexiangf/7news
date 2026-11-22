@@ -1,0 +1,25 @@
+{
+  "maxItems": 5,
+  "items": [
+    {
+      "slug": "mcp-release-cycle",
+      "addedAt": "2026-11-12T04:19:05.920Z"
+    },
+    {
+      "slug": "kimi-k3-1-pro",
+      "addedAt": "2026-11-07T05:00:00.000Z"
+    },
+    {
+      "slug": "openai-hacktron-security-partnership",
+      "addedAt": "2026-11-07T04:59:00.000Z"
+    },
+    {
+      "slug": "gemini-omni-12-flash",
+      "addedAt": "2026-11-07T04:58:00.000Z"
+    },
+    {
+      "slug": "anthropic-gsa-claude-government-discount",
+      "addedAt": "2026-11-07T04:57:00.000Z"
+    }
+  ]
+}
