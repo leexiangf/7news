@@ -4,10 +4,9 @@ Bilingual (zh / en) AI news site for engineers and product leads.
 
 - **Live:** [https://7news.aiaaii.com](https://7news.aiaaii.com)
 - **Stack:** Next.js App Router · TypeScript · Tailwind · Markdown · static export
-- **Host:** Cloudflare Workers (static assets)
 - **License:** [7News Attribution License 1.0](./LICENSE) — keep visible credit to 7News and this repo
 
-This public repository contains the **reader-facing site** (pages, components, published posts). Editorial collectors, crawl pipelines, and internal tooling are intentionally not published.
+This repository is the **reader-facing site template** (pages, components, published posts). Hosting config, collectors, and editorial tooling are not included.
 
 ## Develop
 
@@ -24,7 +23,7 @@ Default port `3618`.
 npm run build
 ```
 
-Static output lands in `out/` for Cloudflare Workers.
+Static output is written to `out/`.
 
 ## Attribution
 

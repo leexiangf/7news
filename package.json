@@ -9,17 +9,7 @@
     "prebuild": "node tools/content/generate-article-feeds.mjs && node tools/content/generate-search-index.mjs",
     "build": "next build",
     "start": "next start -p 3618",
-    "lint": "next lint",
-    "deploy": "npm run build && wrangler deploy",
-    "deploy:only": "wrangler deploy",
-    "seo:indexnow": "node tools/seo/ping-indexnow.mjs",
-    "crawl": "node tools/crawl/run.mjs",
-    "crawl:list": "node tools/crawl/run.mjs --list",
-    "crawl:anthropic": "node tools/crawl/run.mjs --source anthropic --limit 5",
-    "crawl:openai": "node tools/crawl/run.mjs --source openai --limit 3",
-    "crawl:all": "node tools/crawl/run.mjs --all --since last",
-    "crawl:catchup": "node tools/crawl/run.mjs --all --since last --limit 10",
-    "crawl:bootstrap": "node tools/crawl/run.mjs --bootstrap-state"
+    "lint": "next lint"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
