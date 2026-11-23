@@ -9,7 +9,12 @@
     "prebuild": "node tools/content/generate-article-feeds.mjs && node tools/content/generate-search-index.mjs",
     "build": "next build",
     "start": "next start -p 3618",
-    "lint": "next lint"
+    "lint": "next lint",
+    "crawl": "node tools/crawl/run.mjs",
+    "crawl:list": "node tools/crawl/run.mjs --list",
+    "crawl:all": "node tools/crawl/run.mjs --all --since last",
+    "crawl:catchup": "node tools/crawl/run.mjs --all --since last --limit 10",
+    "crawl:bootstrap": "node tools/crawl/run.mjs --bootstrap-state"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
